@@ -1,0 +1,25 @@
+https://developer.linkedin.com/oauth-test-console
+
+API Key: fdgldn2u63bg
+Secret Key: ksi7CmkZcbpnDPco
+
+dktundwal1@gmail.com
+OAuth User Token: 0c7199a9-add2-4627-a40d-786dd6ccfaf1
+OAuth User Secret: 026ccd7a-2997-4d33-a6ee-5363c05ce57a
+
+dktundwal@yahoo.co
+OAuth User Token: 7800b16e-1479-4d82-a039-3260f2c4ddec
+OAuth User Secret: ffc21c5c-3f4d-4ee5-b15c-95c9f64ce662
+Authorization Code: AQQwzRhX70rpf3B3T2E-I-E0KQmkWX6hKBDUeFwRX5n2dG9ygZ9SXS949xDGQLG4pdp4qadsXcnjnR6lUqUklkgzNlqxfAvd7-WawaYar-YD9WsLjF0
+Access Token: AQXcwvgMSP7ZnWpoqRpzB485gysPB8oRw-SJ4bO1NfswHr-HlhnmAiL4iJuscgCTu-86EGxD1_JHX0wqFdcCvzYYId9Ut6r80NYCQvhqujMIEfLRlmzIZu9TpU-gocxkt4h_FnZqYYEdr2AmFznRaKiAhQG6p6zVYLy2Z-oXvD_0vDFipSQ
+
+------------------------
+API Key: 6bpbbe18d3g5
+Secret Key: AXk3MwOFObDkBPMd
+OAuth User Token: dd82d23a-5631-458c-9de3-ec8cfe5a8476
+OAuth User Secret: ed0457b8-b2f4-49ae-9cb6-037545284ee9
+
+code=AQSQHC9eTe91yBUjkVAMuAV05323MEb_QFgMy7KTxQPB4Rb6lnhSPyw_xQW0dXKm_OfBzLGFlr7jsqZKpedPZmsangsPDRkCIyE2UPZNGJRfmHaqGP0
+"access_token":"AQXrpbSOFAJQdnV-eoNGcK79B7VfosJ70kStg1CNkNKiFgCuC7I_AlqChaZz2BSvuTvX3UMF4Xco2VUQo8g2-2qbedbiQQy2blSc0sve-DR__ejI8B3axgZGXNz-JxZwV1K3LKH6IDO95VfLFXvPm6A4KGdC31FYm5_f3tSzwIYmxWXcXLs"
+
+

@@ -1,0 +1,11 @@
+
+Consumer key	:	8SlJEl2hwE2j14hHPmS6zA
+Consumer secret	:	2EvMyCKiDQDcZ6Eyk6z32WtkfoOAQpDY0Y8AB1PU54
+
+user: dktundwal@yahoo.com
+Access token		:	64409042-M4N10mUk7VSHxvGUQgSBRVfQvzlDXctrsE09OWtod
+Access token secret	:	ivD2JeXEPlu8OI07Bg4DxuWFikmybT5sdzrD7bpyWOk
+
+user: dktundwal@hotmail.com
+Access token		:	1386616375-yUi8UxESZL9FUFzDFLncpOKBeMOz7avwb8CuVUO
+Access token secret	:	ZRXcjQSl74USwhwHP2McxzY3eRT5SNgGOXFWzeTdGE

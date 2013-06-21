@@ -1,0 +1,47 @@
+Requests Twitter:
+{Method: POST, RequestUri: 'http://accafe2f68d5437d85b88fc8a628b6f7.cloudapp.net/BigDataAnalyser.svc/Twitter_SearchUser', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Transfer-Encoding: chunked
+}}
+POST DATA : {"f_name":"deepak","m_name":"","l_name":"tundwal","emailId":"","jobRole":"","skills":"","stackEx_user_id":0,"stackEx_account_id":0,"twitter_user_id":0,"twitter_screenname":null,"LinkedIn_user_id":null,"curCompany_name":null}
+
+{Method: POST, RequestUri: 'http://accafe2f68d5437d85b88fc8a628b6f7.cloudapp.net/BigDataAnalyser.svc/Twitter_UserTimeline', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Transfer-Encoding: chunked
+}}
+POST DATA : {"f_name":"deepak","m_name":"","l_name":"tundwal","emailId":"","jobRole":"","skills":"","stackEx_user_id":0,"stackEx_account_id":0,"twitter_user_id":0,"twitter_screenname":"DTundwal","LinkedIn_user_id":null,"curCompany_name":null}
+
+{Method: POST, RequestUri: 'http://accafe2f68d5437d85b88fc8a628b6f7.cloudapp.net/BigDataAnalyser.svc/Twitter_GetMentionList', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Transfer-Encoding: chunked
+}}
+POST DATA: {"f_name":"deepak","m_name":"","l_name":"tundwal","emailId":"","jobRole":"","skills":"","stackEx_user_id":0,"stackEx_account_id":0,"twitter_user_id":0,"twitter_screenname":"DTundwal","LinkedIn_user_id":null,"curCompany_name":null}
+
+
+
+StackEx:
+{Method: POST, RequestUri: 'http://accafe2f68d5437d85b88fc8a628b6f7.cloudapp.net/BigDataAnalyser.svc/GetUserDetail', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Transfer-Encoding: chunked
+}}
+POST DATA: {"f_name":"deepak","m_name":"","l_name":"tundwal","emailId":"","jobRole":"","skills":"","stackEx_user_id":0,"stackEx_account_id":0,"twitter_user_id":0,"twitter_screenname":null,"LinkedIn_user_id":null,"curCompany_name":null}
+
+{Method: POST, RequestUri: 'http://accafe2f68d5437d85b88fc8a628b6f7.cloudapp.net/BigDataAnalyser.svc/GetUserDetailById', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Transfer-Encoding: chunked
+}}
+{"f_name":"deepak","m_name":"","l_name":"tundwal","emailId":"","jobRole":"","skills":"","stackEx_user_id":1852224,"stackEx_account_id":2080032,"twitter_user_id":0,"twitter_screenname":null,"LinkedIn_user_id":null,"curCompany_name":null}
+
+
+LinkedIn:
+{Method: POST, RequestUri: 'http://accafe2f68d5437d85b88fc8a628b6f7.cloudapp.net/BigDataAnalyser.svc/LinkedIn_SearchUser', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Transfer-Encoding: chunked
+}}
+{"f_name":"deepak","m_name":"","l_name":"tundwal","emailId":"","jobRole":"","skills":"","stackEx_user_id":1852224,"stackEx_account_id":2080032,"twitter_user_id":0,"twitter_screenname":null,"LinkedIn_user_id":null,"curCompany_name":null}
+
+{Method: POST, RequestUri: 'http://accafe2f68d5437d85b88fc8a628b6f7.cloudapp.net/BigDataAnalyser.svc/LinkedIn_GetGroupDetail', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Transfer-Encoding: chunked
+}}
+{"group":null,"groupPostsbyUser":null,"userId":"SHdKZUiQ-a","groupId":"2848695","groupIndex":0}

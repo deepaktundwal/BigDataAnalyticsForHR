@@ -1,0 +1,38 @@
+https://api.stackexchange.com/docs/users-by-ids
+
+https://api.stackexchange.com/2.1/users/340334?order=desc&sort=reputation&site=stackoverflow
+OUTPUT:
+{
+  "items": [
+    {
+      "user_id": 340334,
+      "user_type": "registered",
+      "creation_date": 1273758954,
+      "display_name": "JohnGB",
+      "profile_image": "http://www.gravatar.com/avatar/61441c6f0027ee4f4b25b6dcf756f9a3?d=identicon&r=PG",
+      "reputation": 147,
+      "reputation_change_day": 0,
+      "reputation_change_week": 0,
+      "reputation_change_month": 0,
+      "reputation_change_quarter": 12,
+      "reputation_change_year": 12,
+      "age": 35,
+      "last_access_date": 1363869367,
+      "last_modified_date": 1332302429,
+      "is_employee": false,
+      "link": "http://stackoverflow.com/users/340334/johngb",
+      "website_url": "http://www.vemble.com",
+      "location": "Delft, Netherlands",
+      "account_id": 136675,
+      "badge_counts": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 10
+      },
+      "accept_rate": 67
+    }
+  ],
+  "quota_remaining": 9996,
+  "quota_max": 10000,
+  "has_more": false
+}

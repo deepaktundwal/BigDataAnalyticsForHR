@@ -1,0 +1,77 @@
+https://api.stackexchange.com/docs/tags-on-users
+
+{id} can contain a single id
+{tags} is limited to 5 tags, passing more will result in an error. eg; ..../tags/c#;windows-phone-7/top-answers.....
+https://api.stackexchange.com/2.1/users/1852224/tags/c%23%3Bwindows-phone-7/top-answers?sort=activity&site=stackoverflow&filter=!-t6dD.mE
+
+Filter: https://api.stackexchange.com/2.1/users/1852224/tags?order=desc&sort=popular&site=stackoverflow&filter=!-t6dD.mE
+OUTPUT:
+{
+  "items": [
+    {
+      "name": "c#",
+      "count": 3,
+      "user_id": 1852224
+    },
+    {
+      "name": "windows-phone-7",
+      "count": 3,
+      "user_id": 1852224
+    },
+    {
+      "name": "closing",
+      "count": 1,
+      "user_id": 1852224
+    },
+    {
+      "name": "overriding",
+      "count": 1,
+      "user_id": 1852224
+    }
+  ],
+  "quota_remaining": 9982,
+  "quota_max": 10000,
+  "has_more": false
+}
+
+https://api.stackexchange.com/2.1/users/1852224/tags?order=desc&sort=popular&site=stackoverflow
+OUTPUT:
+{
+  "items": [
+    {
+      "name": "c#",
+      "count": 3,
+      "is_required": false,
+      "is_moderator_only": false,
+      "user_id": 1852224,
+      "has_synonyms": true
+    },
+    {
+      "name": "windows-phone-7",
+      "count": 3,
+      "is_required": false,
+      "is_moderator_only": false,
+      "user_id": 1852224,
+      "has_synonyms": true
+    },
+    {
+      "name": "closing",
+      "count": 1,
+      "is_required": false,
+      "is_moderator_only": false,
+      "user_id": 1852224,
+      "has_synonyms": false
+    },
+    {
+      "name": "overriding",
+      "count": 1,
+      "is_required": false,
+      "is_moderator_only": false,
+      "user_id": 1852224,
+      "has_synonyms": false
+    }
+  ],
+  "quota_remaining": 9985,
+  "quota_max": 10000,
+  "has_more": false
+}

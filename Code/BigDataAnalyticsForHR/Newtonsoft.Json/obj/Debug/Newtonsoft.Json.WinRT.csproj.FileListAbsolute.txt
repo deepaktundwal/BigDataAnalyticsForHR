@@ -1,0 +1,10 @@
+C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\Newtonsoft.Json\bin\Debug\WinRT\Newtonsoft.Json.dll
+C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\Newtonsoft.Json\bin\Debug\WinRT\Newtonsoft.Json.pdb
+C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\Newtonsoft.Json\bin\Debug\WinRT\Newtonsoft.Json.pri
+C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\Newtonsoft.Json\obj\Debug\Newtonsoft.Json.dll
+C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\Newtonsoft.Json\obj\Debug\Newtonsoft.Json.pdb
+C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\Newtonsoft.Json\obj\Debug\priconfig.xml
+C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\Newtonsoft.Json\obj\Debug\layout.resfiles
+C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\Newtonsoft.Json\obj\Debug\resources.resfiles
+C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\Newtonsoft.Json\obj\Debug\pri.resfiles
+C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\Newtonsoft.Json\obj\Debug\LanguageQualifiers.txt

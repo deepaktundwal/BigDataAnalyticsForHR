@@ -1,0 +1,131 @@
+
+{http://search.twitter.com/search.json?q=@shreyaghoshal&rpp=5&result_type=recent}
+{http://search.twitter.com/search.json?q=@shreyaghoshal&rpp=5&result_type=recent&include_entities=true}
+
+{"completed_in":0.011,"max_id":329099060197875712,"max_id_str":"329099060197875712","next_page":"?page=2&max_id=329099060197875712&q=%40shreyaghoshal&rpp=5&result_type=recent","page":1,"query":"%40shreyaghoshal","refresh_url":"?since_id=329099060197875712&q=%40shreyaghoshal&result_type=recent","results":[{"created_at":"Tue, 30 Apr 2013 05:05:04 +0000","from_user":"Neerajx","from_user_id":211551546,"from_user_id_str":"211551546","from_user_name":"Neeraj","geo":null,"id":329099060197875712,"id_str":"329099060197875712","iso_language_code":"en","metadata":{"result_type":"recent"},"profile_image_url":"http:\/\/a0.twimg.com\/profile_images\/3516352939\/ff78165f352199bc17ceb8daa3ef4160_normal.jpeg","profile_image_url_https":"https:\/\/si0.twimg.com\/profile_images\/3516352939\/ff78165f352199bc17ceb8daa3ef4160_normal.jpeg","source":"&lt;a href=&quot;http:\/\/twitter.com\/download\/android&quot;&gt;Twitter for Android&lt;\/a&gt;","text":"@shreyaghoshal please share the photos too!","to_user":"shreyaghoshal","to_user_id":55520719,"to_user_id_str":"55520719","to_user_name":"Shreya Ghoshal","in_reply_to_status_id":328992043827331072,"in_reply_to_status_id_str":"328992043827331072"},{"created_at":"Tue, 30 Apr 2013 05:03:51 +0000","from_user":"kaarthisn","from_user_id":165351842,"from_user_id_str":"165351842","from_user_name":"kaarthi","geo":null,"id":329098751258013698,"id_str":"329098751258013698","iso_language_code":"en","metadata":{"result_type":"recent"},"profile_image_url":"http:\/\/a0.twimg.com\/profile_images\/3098375405\/85540136051caf929e308e1a25d5257e_normal.jpeg","profile_image_url_https":"https:\/\/si0.twimg.com\/profile_images\/3098375405\/85540136051caf929e308e1a25d5257e_normal.jpeg","source":"&lt;a href=&quot;http:\/\/twitter.com\/&quot;&gt;web&lt;\/a&gt;","text":"RT @shreyaghoshal: 2mrw I plan to wear a chiffon saree and sing some romantic songs in these alpine valleys.. #switzerland"},{"created_at":"Tue, 30 Apr 2013 05:00:35 +0000","from_user":"kanikaS__SG","from_user_id":282901463,"from_user_id_str":"282901463","from_user_name":"SG ki deeewani","geo":null,"id":329097931892326400,"id_str":"329097931892326400","iso_language_code":"in","metadata":{"result_type":"recent"},"profile_image_url":"http:\/\/a0.twimg.com\/profile_images\/3590814985\/8e0c79c97e4a203724342470510c4b18_normal.jpeg","profile_image_url_https":"https:\/\/si0.twimg.com\/profile_images\/3590814985\/8e0c79c97e4a203724342470510c4b18_normal.jpeg","source":"&lt;a href=&quot;http:\/\/twitter.com\/download\/android&quot;&gt;Twitter for Android&lt;\/a&gt;","text":"@shreyaghoshal #ShreyaTo2Million Wooohoooo!","to_user":"shreyaghoshal","to_user_id":55520719,"to_user_id_str":"55520719","to_user_name":"Shreya Ghoshal","in_reply_to_status_id":328992043827331072,"in_reply_to_status_id_str":"328992043827331072"},{"created_at":"Tue, 30 Apr 2013 05:00:13 +0000","from_user":"IMISSMYROSE_SG","from_user_id":543536821,"from_user_id_str":"543536821","from_user_name":"Arun::$G::","geo":null,"id":329097838099312641,"id_str":"329097838099312641","iso_language_code":"en","metadata":{"result_type":"recent"},"profile_image_url":"http:\/\/a0.twimg.com\/profile_images\/3594176851\/8d3b0ed7076d508adec1f9c9a40cd8a2_normal.jpeg","profile_image_url_https":"https:\/\/si0.twimg.com\/profile_images\/3594176851\/8d3b0ed7076d508adec1f9c9a40cd8a2_normal.jpeg","source":"&lt;a href=&quot;http:\/\/twitter.com\/download\/android&quot;&gt;Twitter for Android&lt;\/a&gt;","text":"@shreyaghoshal IN MY DREAM YOU ARE MINE.....BUT IN MY LIFE YOU ARE A DREAM http:\/\/t.co\/TdmxIcErWc","to_user":"shreyaghoshal","to_user_id":55520719,"to_user_id_str":"55520719","to_user_name":"Shreya Ghoshal"},{"created_at":"Tue, 30 Apr 2013 04:59:37 +0000","from_user":"sumantra9","from_user_id":919833294,"from_user_id_str":"919833294","from_user_name":"sumantra SINGHARAY","geo":null,"id":329097685925769216,"id_str":"329097685925769216","iso_language_code":"tl","metadata":{"result_type":"recent"},"profile_image_url":"http:\/\/a0.twimg.com\/profile_images\/2795279199\/70213df8591f09b63cf3facc75bd4e1c_normal.jpeg","profile_image_url_https":"https:\/\/si0.twimg.com\/profile_images\/2795279199\/70213df8591f09b63cf3facc75bd4e1c_normal.jpeg","source":"&lt;a href=&quot;https:\/\/mobile.twitter.com&quot;&gt;Mobile Web (M2)&lt;\/a&gt;","text":"@shreyaghoshal\nGOOD MoRNING DEAR brkfrst hyeche? Ki korcho Rewaj krcho naki math exm maton lagche tmr tour tension krcho bathroom \nbose","to_user":"shreyaghoshal","to_user_id":55520719,"to_user_id_str":"55520719","to_user_name":"Shreya Ghoshal"}],"results_per_page":5,"since_id":0,"since_id_str":"0"}
+{"completed_in":0.015,"max_id":329102163487895552,"max_id_str":"329102163487895552","next_page":"?page=2&max_id=329102163487895552&q=%40shreyaghoshal&rpp=5&include_entities=1&result_type=recent","page":1,"query":"%40shreyaghoshal","refresh_url":"?since_id=329102163487895552&q=%40shreyaghoshal&result_type=recent&include_entities=1","results":[{"created_at":"Tue, 30 Apr 2013 05:17:24 +0000","entities":{"hashtags":[{"text":"switzerland","indices":[110,122]}],"urls":[],"user_mentions":[{"screen_name":"shreyaghoshal","name":"Shreya Ghoshal","id":55520719,"id_str":"55520719","indices":[3,17]}]},"from_user":"chinki15","from_user_id":222142354,"from_user_id_str":"222142354","from_user_name":"SP","geo":null,"id":329102163487895552,"id_str":"329102163487895552","iso_language_code":"en","metadata":{"result_type":"recent"},"profile_image_url":"http:\/\/a0.twimg.com\/profile_images\/3244782113\/1d8cf7e403fbe2b3cac9102a477c382a_normal.jpeg","profile_image_url_https":"https:\/\/si0.twimg.com\/profile_images\/3244782113\/1d8cf7e403fbe2b3cac9102a477c382a_normal.jpeg","source":"&lt;a href=&quot;http:\/\/twitter.com\/download\/android&quot;&gt;Twitter for Android&lt;\/a&gt;","text":"RT @shreyaghoshal: 2mrw I plan to wear a chiffon saree and sing some romantic songs in these alpine valleys.. #switzerland"},{"created_at":"Tue, 30 Apr 2013 05:15:45 +0000","entities":{"hashtags":[],"urls":[],"user_mentions":[{"screen_name":"shreyaghoshal","name":"Shreya Ghoshal","id":55520719,"id_str":"55520719","indices":[0,14]}]},"from_user":"afrahsidhi","from_user_id":1381650404,"from_user_id_str":"1381650404","from_user_name":"afrah juman","geo":null,"id":329101746016227328,"id_str":"329101746016227328","iso_language_code":"en","metadata":{"result_type":"recent"},"profile_image_url":"http:\/\/a0.twimg.com\/sticky\/default_profile_images\/default_profile_1_normal.png","profile_image_url_https":"https:\/\/si0.twimg.com\/sticky\/default_profile_images\/default_profile_1_normal.png","source":"&lt;a href=&quot;http:\/\/twitter.com\/&quot;&gt;web&lt;\/a&gt;","text":"@shreyaghoshal GO FOR IT .YOU WILL LOOK NICE IN TAT","to_user":"shreyaghoshal","to_user_id":55520719,"to_user_id_str":"55520719","to_user_name":"Shreya Ghoshal","in_reply_to_status_id":328992043827331072,"in_reply_to_status_id_str":"328992043827331072"},{"created_at":"Tue, 30 Apr 2013 05:13:49 +0000","entities":{"hashtags":[],"urls":[],"user_mentions":[{"screen_name":"shreyaghoshal","name":"Shreya Ghoshal","id":55520719,"id_str":"55520719","indices":[0,14]}]},"from_user":"Parthiv12","from_user_id":76594077,"from_user_id_str":"76594077","from_user_name":"Parthiv Chinnasamy","geo":null,"id":329101262228443137,"id_str":"329101262228443137","iso_language_code":"en","metadata":{"result_type":"recent"},"profile_image_url":"http:\/\/a0.twimg.com\/profile_images\/3206349592\/4e8ec1b85e7e2da35279ce61d7560ea5_normal.jpeg","profile_image_url_https":"https:\/\/si0.twimg.com\/profile_images\/3206349592\/4e8ec1b85e7e2da35279ce61d7560ea5_normal.jpeg","source":"&lt;a href=&quot;http:\/\/twitter.com\/&quot;&gt;web&lt;\/a&gt;","text":"@shreyaghoshal Watching Ur concert videos is always fun! ;)","to_user":"shreyaghoshal","to_user_id":55520719,"to_user_id_str":"55520719","to_user_name":"Shreya Ghoshal"},{"created_at":"Tue, 30 Apr 2013 05:10:30 +0000","entities":{"hashtags":[],"urls":[],"user_mentions":[{"screen_name":"Shamma_Khan","name":"Shamma Khan","id":87004920,"id_str":"87004920","indices":[3,15]},{"screen_name":"priya_gautam","name":"Priya Gautam","id":75908165,"id_str":"75908165","indices":[31,44]},{"screen_name":"shreyaghoshal","name":"Shreya Ghoshal","id":55520719,"id_str":"55520719","indices":[46,60]}],"media":[{"id":328950010236506113,"id_str":"328950010236506113","indices":[100,122],"media_url":"http:\/\/pbs.twimg.com\/media\/BJCqSp0CEAEqKnF.jpg","media_url_https":"https:\/\/pbs.twimg.com\/media\/BJCqSp0CEAEqKnF.jpg","url":"http:\/\/t.co\/95Sdeulkmr","display_url":"pic.twitter.com\/95Sdeulkmr","expanded_url":"http:\/\/twitter.com\/priya_gautam\/status\/328950010232311808\/photo\/1","type":"photo","sizes":{"small":{"w":340,"h":170,"resize":"fit"},"thumb":{"w":150,"h":150,"resize":"crop"},"orig":{"w":960,"h":481,"resize":"fit"},"medium":{"w":600,"h":301,"resize":"fit"},"large":{"w":960,"h":481,"resize":"fit"}},"source_status_id":328950010232311808,"source_status_id_str":"328950010232311808"}]},"from_user":"SGSashAR","from_user_id":31832402,"from_user_id_str":"31832402","from_user_name":"SASH","geo":null,"id":329100427339628545,"id_str":"329100427339628545","iso_language_code":"en","metadata":{"result_type":"recent"},"profile_image_url":"http:\/\/a0.twimg.com\/profile_images\/3590425126\/23d0030aaf0996eb3fbe5df22f7d5d28_normal.jpeg","profile_image_url_https":"https:\/\/si0.twimg.com\/profile_images\/3590425126\/23d0030aaf0996eb3fbe5df22f7d5d28_normal.jpeg","source":"&lt;a href=&quot;http:\/\/twitter.com\/download\/android&quot;&gt;Twitter for Android&lt;\/a&gt;","text":"RT @Shamma_Khan: GO SHREYA! RT @priya_gautam: @shreyaghoshal *fist pump* yusssss...u rock Shreya! \ud83d\ude0a http:\/\/t.co\/95Sdeulkmr"},{"created_at":"Tue, 30 Apr 2013 05:10:04 +0000","entities":{"hashtags":[{"text":"ShreyaTo2Million","indices":[47,64]}],"urls":[],"user_mentions":[{"screen_name":"iSHapurandaRE","name":"Ishh","id":342659118,"id_str":"342659118","indices":[3,17]},{"screen_name":"kanikaS__SG","name":"SG ki deeewani","id":282901463,"id_str":"282901463","indices":[19,31]},{"screen_name":"shreyaghoshal","name":"Shreya Ghoshal","id":55520719,"id_str":"55520719","indices":[32,46]}]},"from_user":"kanikaS__SG","from_user_id":282901463,"from_user_id_str":"282901463","from_user_name":"SG ki deeewani","geo":null,"id":329100315431403523,"id_str":"329100315431403523","iso_language_code":"de","metadata":{"result_type":"recent"},"profile_image_url":"http:\/\/a0.twimg.com\/profile_images\/3590814985\/8e0c79c97e4a203724342470510c4b18_normal.jpeg","profile_image_url_https":"https:\/\/si0.twimg.com\/profile_images\/3590814985\/8e0c79c97e4a203724342470510c4b18_normal.jpeg","source":"&lt;a href=&quot;http:\/\/twitter.com\/download\/android&quot;&gt;Twitter for Android&lt;\/a&gt;","text":"RT @iSHapurandaRE: @kanikaS__SG @shreyaghoshal #ShreyaTo2Million trend karna hai!","in_reply_to_status_id":329097931892326400,"in_reply_to_status_id_str":"329097931892326400"}],"results_per_page":5,"since_id":0,"since_id_str":"0"}
+
+{"completed_in":0.008,"max_id":329624768968003585,"max_id_str":"329624768968003585","page":1,"query":"%40DTundwal","refresh_url":"?since_id=329624768968003585&q=%40DTundwal&result_type=recent","results":[{"created_at":"Wed, 01 May 2013 15:54:03 +0000","from_user":"omkareshwar","from_user_id":35250014,"from_user_id_str":"35250014","from_user_name":"omkar","geo":null,"id":329624768968003585,"id_str":"329624768968003585","iso_language_code":"en","metadata":{"result_type":"recent"},"profile_image_url":"http:\/\/a0.twimg.com\/profile_images\/1753780920\/image_normal.jpg","profile_image_url_https":"https:\/\/si0.twimg.com\/profile_images\/1753780920\/image_normal.jpg","source":"&lt;a href=&quot;http:\/\/www.twitter.com&quot;&gt;Twitter for Windows Phone&lt;\/a&gt;","text":"@DTundwal @windowsphone show me a phone that looks like Lumia 920. Hands down the best crowd puller.","to_user":"DTundwal","to_user_id":1386616375,"to_user_id_str":"1386616375","to_user_name":"Deepak Tundwal","in_reply_to_status_id":329613456401633281,"in_reply_to_status_id_str":"329613456401633281"}],"results_per_page":5,"since_id":0,"since_id_str":"0"}
+
+{
+    "completed_in" : 0.011,
+    "max_id" : 329099060197875712,
+    "max_id_str" : "329099060197875712",
+    "next_page" : "?page=2&max_id=329099060197875712&q=%40shreyaghoshal&rpp=5&result_type=recent",
+    "page" : 1,
+    "query" : "%40shreyaghoshal",
+    "refresh_url" : "?since_id=329099060197875712&q=%40shreyaghoshal&result_type=recent",
+    "results" : [{
+        "created_at" : "Tue, 30 Apr 2013 05:05:04 +0000",
+        "from_user" : "Neerajx",
+        "from_user_id" : 211551546,
+        "from_user_id_str" : "211551546",
+        "from_user_name" : "Neeraj",
+        "geo" : null,
+        "id" : 329099060197875712,
+        "id_str" : "329099060197875712",
+        "iso_language_code" : "en",
+        "metadata" : {
+            "result_type" : "recent"
+        },
+        "profile_image_url" : "http:\/\/a0.twimg.com\/profile_images\/3516352939\/ff78165f352199bc17ceb8daa3ef4160_normal.jpeg",
+        "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/3516352939\/ff78165f352199bc17ceb8daa3ef4160_normal.jpeg",
+        "source" : "&lt;a href=&quot;http:\/\/twitter.com\/download\/android&quot;&gt;Twitter for Android&lt;\/a&gt;",
+        "text" : "@shreyaghoshal please share the photos too!",
+        "to_user" : "shreyaghoshal",
+        "to_user_id" : 55520719,
+        "to_user_id_str" : "55520719",
+        "to_user_name" : "Shreya Ghoshal",
+        "in_reply_to_status_id" : 328992043827331072,
+        "in_reply_to_status_id_str" : "328992043827331072"
+    },
+    {
+        "created_at" : "Tue, 30 Apr 2013 05:03:51 +0000",
+        "from_user" : "kaarthisn",
+        "from_user_id" : 165351842,
+        "from_user_id_str" : "165351842",
+        "from_user_name" : "kaarthi",
+        "geo" : null,
+        "id" : 329098751258013698,
+        "id_str" : "329098751258013698",
+        "iso_language_code" : "en",
+        "metadata" : {
+            "result_type" : "recent"
+        },
+        "profile_image_url" : "http:\/\/a0.twimg.com\/profile_images\/3098375405\/85540136051caf929e308e1a25d5257e_normal.jpeg",
+        "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/3098375405\/85540136051caf929e308e1a25d5257e_normal.jpeg",
+        "source" : "&lt;a href=&quot;http:\/\/twitter.com\/&quot;&gt;web&lt;\/a&gt;",
+        "text" : "RT @shreyaghoshal: 2mrw I plan to wear a chiffon saree and sing some romantic songs in these alpine valleys.. #switzerland"
+    },
+    {
+        "created_at" : "Tue, 30 Apr 2013 05:00:35 +0000",
+        "from_user" : "kanikaS__SG",
+        "from_user_id" : 282901463,
+        "from_user_id_str" : "282901463",
+        "from_user_name" : "SG ki deeewani",
+        "geo" : null,
+        "id" : 329097931892326400,
+        "id_str" : "329097931892326400",
+        "iso_language_code" : "in",
+        "metadata" : {
+            "result_type" : "recent"
+        },
+        "profile_image_url" : "http:\/\/a0.twimg.com\/profile_images\/3590814985\/8e0c79c97e4a203724342470510c4b18_normal.jpeg",
+        "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/3590814985\/8e0c79c97e4a203724342470510c4b18_normal.jpeg",
+        "source" : "&lt;a href=&quot;http:\/\/twitter.com\/download\/android&quot;&gt;Twitter for Android&lt;\/a&gt;",
+        "text" : "@shreyaghoshal #ShreyaTo2Million Wooohoooo!",
+        "to_user" : "shreyaghoshal",
+        "to_user_id" : 55520719,
+        "to_user_id_str" : "55520719",
+        "to_user_name" : "Shreya Ghoshal",
+        "in_reply_to_status_id" : 328992043827331072,
+        "in_reply_to_status_id_str" : "328992043827331072"
+    },
+    {
+        "created_at" : "Tue, 30 Apr 2013 05:00:13 +0000",
+        "from_user" : "IMISSMYROSE_SG",
+        "from_user_id" : 543536821,
+        "from_user_id_str" : "543536821",
+        "from_user_name" : "Arun::$G::",
+        "geo" : null,
+        "id" : 329097838099312641,
+        "id_str" : "329097838099312641",
+        "iso_language_code" : "en",
+        "metadata" : {
+            "result_type" : "recent"
+        },
+        "profile_image_url" : "http:\/\/a0.twimg.com\/profile_images\/3594176851\/8d3b0ed7076d508adec1f9c9a40cd8a2_normal.jpeg",
+        "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/3594176851\/8d3b0ed7076d508adec1f9c9a40cd8a2_normal.jpeg",
+        "source" : "&lt;a href=&quot;http:\/\/twitter.com\/download\/android&quot;&gt;Twitter for Android&lt;\/a&gt;",
+        "text" : "@shreyaghoshal IN MY DREAM YOU ARE MINE.....BUT IN MY LIFE YOU ARE A DREAM http:\/\/t.co\/TdmxIcErWc",
+        "to_user" : "shreyaghoshal",
+        "to_user_id" : 55520719,
+        "to_user_id_str" : "55520719",
+        "to_user_name" : "Shreya Ghoshal"
+    },
+    {
+        "created_at" : "Tue, 30 Apr 2013 04:59:37 +0000",
+        "from_user" : "sumantra9",
+        "from_user_id" : 919833294,
+        "from_user_id_str" : "919833294",
+        "from_user_name" : "sumantra SINGHARAY",
+        "geo" : null,
+        "id" : 329097685925769216,
+        "id_str" : "329097685925769216",
+        "iso_language_code" : "tl",
+        "metadata" : {
+            "result_type" : "recent"
+        },
+        "profile_image_url" : "http:\/\/a0.twimg.com\/profile_images\/2795279199\/70213df8591f09b63cf3facc75bd4e1c_normal.jpeg",
+        "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2795279199\/70213df8591f09b63cf3facc75bd4e1c_normal.jpeg",
+        "source" : "&lt;a href=&quot;https:\/\/mobile.twitter.com&quot;&gt;Mobile Web (M2)&lt;\/a&gt;",
+        "text" : "@shreyaghoshal\nGOOD MoRNING DEAR brkfrst hyeche? Ki korcho Rewaj krcho naki math exm maton lagche tmr tour tension krcho bathroom \nbose",
+        "to_user" : "shreyaghoshal",
+        "to_user_id" : 55520719,
+        "to_user_id_str" : "55520719",
+        "to_user_name" : "Shreya Ghoshal"
+    }],
+    "results_per_page" : 5,
+    "since_id" : 0,
+    "since_id_str" : "0"
+}

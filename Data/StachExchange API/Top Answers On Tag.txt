@@ -1,0 +1,457 @@
+https://api.stackexchange.com/docs/top-answerers-on-tags
+https://api.stackexchange.com/2.1/tags/c%23/top-answers/all_time?site=stackoverflow&filter=!6QqZPjH*oJiob
+https://api.stackexchange.com/2.1/tags/c%23/top-answerers/all_time?site=stackoverflow&filter=!6QqZPjH*oJiob
+FILTER: https://api.stackexchange.com/2.1/tags/c%23/top-answerers/all_time?site=stackoverflow&filter=!6QqZPjH*oJiob
+OUTPUT:
+{
+  "items": [
+    {
+      "user": {
+        "user_id": 22656,
+        "display_name": "Jon Skeet",
+        "link": "http://stackoverflow.com/users/22656/jon-skeet"
+      },
+      "score": 90085,
+      "post_count": 13579
+    },
+    {
+      "user": {
+        "user_id": 23354,
+        "display_name": "Marc Gravell",
+        "link": "http://stackoverflow.com/users/23354/marc-gravell"
+      },
+      "score": 44520,
+      "post_count": 8720
+    },
+    {
+      "user": {
+        "user_id": 88656,
+        "display_name": "Eric Lippert",
+        "link": "http://stackoverflow.com/users/88656/eric-lippert"
+      },
+      "score": 30440,
+      "post_count": 2108
+    },
+    {
+      "user": {
+        "user_id": 29407,
+        "display_name": "Darin Dimitrov",
+        "link": "http://stackoverflow.com/users/29407/darin-dimitrov"
+      },
+      "score": 19980,
+      "post_count": 6096
+    },
+    {
+      "user": {
+        "user_id": 17034,
+        "display_name": "Hans Passant",
+        "link": "http://stackoverflow.com/users/17034/hans-passant"
+      },
+      "score": 18286,
+      "post_count": 5728
+    },
+    {
+      "user": {
+        "user_id": 65358,
+        "display_name": "Reed Copsey",
+        "link": "http://stackoverflow.com/users/65358/reed-copsey"
+      },
+      "score": 16723,
+      "post_count": 3673
+    },
+    {
+      "user": {
+        "user_id": 23283,
+        "display_name": "JaredPar",
+        "link": "http://stackoverflow.com/users/23283/jaredpar"
+      },
+      "score": 16347,
+      "post_count": 2698
+    },
+    {
+      "user": {
+        "user_id": 34397,
+        "display_name": "SLaks",
+        "link": "http://stackoverflow.com/users/34397/slaks"
+      },
+      "score": 16161,
+      "post_count": 4530
+    },
+    {
+      "user": {
+        "user_id": 1583,
+        "display_name": "Oded",
+        "link": "http://stackoverflow.com/users/1583/oded"
+      },
+      "score": 11366,
+      "post_count": 3394
+    },
+    {
+      "user": {
+        "user_id": 60761,
+        "display_name": "Henk Holterman",
+        "link": "http://stackoverflow.com/users/60761/henk-holterman"
+      },
+      "score": 8722,
+      "post_count": 3159
+    },
+    {
+      "user": {
+        "user_id": 33708,
+        "display_name": "Mehrdad Afshari",
+        "link": "http://stackoverflow.com/users/33708/mehrdad-afshari"
+      },
+      "score": 8676,
+      "post_count": 1023
+    },
+    {
+      "user": {
+        "user_id": 61974,
+        "display_name": "Mark Byers",
+        "link": "http://stackoverflow.com/users/61974/mark-byers"
+      },
+      "score": 7812,
+      "post_count": 1513
+    },
+    {
+      "user": {
+        "user_id": 69083,
+        "display_name": "Guffa",
+        "link": "http://stackoverflow.com/users/69083/guffa"
+      },
+      "score": 7299,
+      "post_count": 2444
+    },
+    {
+      "user": {
+        "user_id": 76217,
+        "display_name": "dtb",
+        "link": "http://stackoverflow.com/users/76217/dtb"
+      },
+      "score": 6776,
+      "post_count": 1488
+    },
+    {
+      "user": {
+        "user_id": 45914,
+        "display_name": "Jason",
+        "link": "http://stackoverflow.com/users/45914/jason"
+      },
+      "score": 6194,
+      "post_count": 1236
+    },
+    {
+      "user": {
+        "user_id": 3043,
+        "display_name": "Joel Coehoorn",
+        "link": "http://stackoverflow.com/users/3043/joel-coehoorn"
+      },
+      "score": 5787,
+      "post_count": 1439
+    },
+    {
+      "user": {
+        "user_id": 34211,
+        "display_name": "Andrew Hare",
+        "link": "http://stackoverflow.com/users/34211/andrew-hare"
+      },
+      "score": 5743,
+      "post_count": 1114
+    },
+    {
+      "user": {
+        "user_id": 329769,
+        "display_name": "BrokenGlass",
+        "link": "http://stackoverflow.com/users/329769/brokenglass"
+      },
+      "score": 5568,
+      "post_count": 1906
+    },
+    {
+      "user": {
+        "user_id": 98713,
+        "display_name": "Thomas Levesque",
+        "link": "http://stackoverflow.com/users/98713/thomas-levesque"
+      },
+      "score": 5418,
+      "post_count": 1732
+    },
+    {
+      "user": {
+        "user_id": 55847,
+        "display_name": "LukeH",
+        "link": "http://stackoverflow.com/users/55847/lukeh"
+      },
+      "score": 5273,
+      "post_count": 1051
+    }
+  ],
+  "quota_remaining": 9955,
+  "quota_max": 10000,
+  "has_more": false
+}
+
+https://api.stackexchange.com/2.1/tags/c%23/top-answerers/all_time?site=stackoverflow
+OUTPUT:
+{
+  "items": [
+    {
+      "user": {
+        "user_id": 22656,
+        "display_name": "Jon Skeet",
+        "reputation": 543058,
+        "user_type": "registered",
+        "profile_image": "http://www.gravatar.com/avatar/6d8ebb117e8d83d74ea95fbdd0f87e13?d=identicon&r=PG",
+        "link": "http://stackoverflow.com/users/22656/jon-skeet",
+        "accept_rate": 87
+      },
+      "score": 90085,
+      "post_count": 13579
+    },
+    {
+      "user": {
+        "user_id": 23354,
+        "display_name": "Marc Gravell",
+        "reputation": 377575,
+        "user_type": "moderator",
+        "profile_image": "http://graph.facebook.com/100000653737180/picture?type=large",
+        "link": "http://stackoverflow.com/users/23354/marc-gravell",
+        "accept_rate": 92
+      },
+      "score": 44520,
+      "post_count": 8720
+    },
+    {
+      "user": {
+        "user_id": 88656,
+        "display_name": "Eric Lippert",
+        "reputation": 211861,
+        "user_type": "registered",
+        "profile_image": "http://www.gravatar.com/avatar/6fbdff3ffb6f111d172759b4f05bea0e?d=identicon&r=PG",
+        "link": "http://stackoverflow.com/users/88656/eric-lippert"
+      },
+      "score": 30440,
+      "post_count": 2108
+    },
+    {
+      "user": {
+        "user_id": 29407,
+        "display_name": "Darin Dimitrov",
+        "reputation": 412610,
+        "user_type": "registered",
+        "profile_image": "http://www.gravatar.com/avatar/e3a181e9cdd4757a8b416d93878770c5?d=identicon&r=PG",
+        "link": "http://stackoverflow.com/users/29407/darin-dimitrov",
+        "accept_rate": 96
+      },
+      "score": 19980,
+      "post_count": 6096
+    },
+    {
+      "user": {
+        "user_id": 17034,
+        "display_name": "Hans Passant",
+        "reputation": 333387,
+        "user_type": "registered",
+        "profile_image": "http://www.gravatar.com/avatar/4235db1aa1b11bcddb720dbc70b34a0f?d=identicon&r=PG",
+        "link": "http://stackoverflow.com/users/17034/hans-passant"
+      },
+      "score": 18286,
+      "post_count": 5728
+    },
+    {
+      "user": {
+        "user_id": 65358,
+        "display_name": "Reed Copsey",
+        "reputation": 231420,
+        "user_type": "registered",
+        "profile_image": "http://www.gravatar.com/avatar/9b76f4dcc49420ee7053cb146e2571ad?d=identicon&r=PG",
+        "link": "http://stackoverflow.com/users/65358/reed-copsey",
+        "accept_rate": 92
+      },
+      "score": 16723,
+      "post_count": 3673
+    },
+    {
+      "user": {
+        "user_id": 23283,
+        "display_name": "JaredPar",
+        "reputation": 250283,
+        "user_type": "registered",
+        "profile_image": "http://www.gravatar.com/avatar/529ba429a58902bef56c2fcb672d5ccb?d=identicon&r=PG",
+        "link": "http://stackoverflow.com/users/23283/jaredpar",
+        "accept_rate": 100
+      },
+      "score": 16347,
+      "post_count": 2698
+    },
+    {
+      "user": {
+        "user_id": 34397,
+        "display_name": "SLaks",
+        "reputation": 289004,
+        "user_type": "registered",
+        "profile_image": "http://www.gravatar.com/avatar/7deca8ec973c3c0875e9a36e1e3e2c44?d=identicon&r=PG",
+        "link": "http://stackoverflow.com/users/34397/slaks",
+        "accept_rate": 83
+      },
+      "score": 16161,
+      "post_count": 4530
+    },
+    {
+      "user": {
+        "user_id": 1583,
+        "display_name": "Oded",
+        "reputation": 220348,
+        "user_type": "moderator",
+        "profile_image": "http://www.gravatar.com/avatar/822946942061078fe89f96f4088964b0?d=identicon&r=PG",
+        "link": "http://stackoverflow.com/users/1583/oded",
+        "accept_rate": 100
+      },
+      "score": 11366,
+      "post_count": 3394
+    },
+    {
+      "user": {
+        "user_id": 60761,
+        "display_name": "Henk Holterman",
+        "reputation": 123204,
+        "user_type": "registered",
+        "profile_image": "http://www.gravatar.com/avatar/d4dd7634be2259c53f77ce004b854591?d=identicon&r=PG",
+        "link": "http://stackoverflow.com/users/60761/henk-holterman",
+        "accept_rate": 91
+      },
+      "score": 8722,
+      "post_count": 3159
+    },
+    {
+      "user": {
+        "user_id": 33708,
+        "display_name": "Mehrdad Afshari",
+        "reputation": 155741,
+        "user_type": "registered",
+        "profile_image": "http://www.gravatar.com/avatar/df0bd8a818111607704dab056fcfc091?d=identicon&r=PG",
+        "link": "http://stackoverflow.com/users/33708/mehrdad-afshari",
+        "accept_rate": 80
+      },
+      "score": 8676,
+      "post_count": 1023
+    },
+    {
+      "user": {
+        "user_id": 61974,
+        "display_name": "Mark Byers",
+        "reputation": 241689,
+        "user_type": "registered",
+        "profile_image": "http://www.gravatar.com/avatar/ad240ed5cc406759f0fd72591dc8ca47?d=identicon&r=PG",
+        "link": "http://stackoverflow.com/users/61974/mark-byers"
+      },
+      "score": 7812,
+      "post_count": 1513
+    },
+    {
+      "user": {
+        "user_id": 69083,
+        "display_name": "Guffa",
+        "reputation": 215234,
+        "user_type": "registered",
+        "profile_image": "http://www.gravatar.com/avatar/1db0cdfd3fe268e270ec481a73046c2f?d=identicon&r=PG",
+        "link": "http://stackoverflow.com/users/69083/guffa"
+      },
+      "score": 7299,
+      "post_count": 2444
+    },
+    {
+      "user": {
+        "user_id": 76217,
+        "display_name": "dtb",
+        "reputation": 79093,
+        "user_type": "registered",
+        "profile_image": "http://www.gravatar.com/avatar/2213a7d6f3bd4c4ce68cdeb32c2db0bf?d=identicon&r=PG",
+        "link": "http://stackoverflow.com/users/76217/dtb",
+        "accept_rate": 96
+      },
+      "score": 6776,
+      "post_count": 1488
+    },
+    {
+      "user": {
+        "user_id": 45914,
+        "display_name": "Jason",
+        "reputation": 92262,
+        "user_type": "registered",
+        "profile_image": "http://www.gravatar.com/avatar/196d8ff7c64cc3a1fdd57bb8d054bbf2?d=identicon&r=PG",
+        "link": "http://stackoverflow.com/users/45914/jason",
+        "accept_rate": 68
+      },
+      "score": 6194,
+      "post_count": 1236
+    },
+    {
+      "user": {
+        "user_id": 3043,
+        "display_name": "Joel Coehoorn",
+        "reputation": 149053,
+        "user_type": "registered",
+        "profile_image": "http://www.gravatar.com/avatar/61d2a0f034915fa9d2acd6f6b145bba8?d=identicon&r=PG",
+        "link": "http://stackoverflow.com/users/3043/joel-coehoorn",
+        "accept_rate": 72
+      },
+      "score": 5787,
+      "post_count": 1439
+    },
+    {
+      "user": {
+        "user_id": 34211,
+        "display_name": "Andrew Hare",
+        "reputation": 122223,
+        "user_type": "registered",
+        "profile_image": "http://www.gravatar.com/avatar/eeaeac4ea5869d8e9098565b4876075d?d=identicon&r=PG",
+        "link": "http://stackoverflow.com/users/34211/andrew-hare",
+        "accept_rate": 83
+      },
+      "score": 5743,
+      "post_count": 1114
+    },
+    {
+      "user": {
+        "user_id": 329769,
+        "display_name": "BrokenGlass",
+        "reputation": 75655,
+        "user_type": "registered",
+        "profile_image": "http://www.gravatar.com/avatar/76237ae4574222ef3ebe607ea7bec1dd?d=identicon&r=PG",
+        "link": "http://stackoverflow.com/users/329769/brokenglass",
+        "accept_rate": 75
+      },
+      "score": 5568,
+      "post_count": 1906
+    },
+    {
+      "user": {
+        "user_id": 98713,
+        "display_name": "Thomas Levesque",
+        "reputation": 102359,
+        "user_type": "registered",
+        "profile_image": "http://www.gravatar.com/avatar/f4acdb91aba11ddf8f03d4b12453f3d5?d=identicon&r=PG",
+        "link": "http://stackoverflow.com/users/98713/thomas-levesque",
+        "accept_rate": 89
+      },
+      "score": 5418,
+      "post_count": 1732
+    },
+    {
+      "user": {
+        "user_id": 55847,
+        "display_name": "LukeH",
+        "reputation": 80309,
+        "user_type": "registered",
+        "profile_image": "http://www.gravatar.com/avatar/f7403a20c78b11801ef6f5f2813a46ad?d=identicon&r=PG",
+        "link": "http://stackoverflow.com/users/55847/lukeh"
+      },
+      "score": 5273,
+      "post_count": 1051
+    }
+  ],
+  "quota_remaining": 9959,
+  "quota_max": 10000,
+  "has_more": false
+}

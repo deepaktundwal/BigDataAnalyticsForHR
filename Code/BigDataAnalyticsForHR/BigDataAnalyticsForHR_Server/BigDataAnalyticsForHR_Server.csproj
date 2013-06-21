@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E0C6B9AA-9F6A-42EB-9E42-65D1D3E2C2B6}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Server</RootNamespace>
+    <AssemblyName>BigDataAnalyticsForHR_Server</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Newtonsoft.Json\bin\Debug\Net40\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Constants.cs" />
+    <Compile Include="Main.cs" />
+    <Compile Include="Model\LinkedIn\Group.cs" />
+    <Compile Include="Model\LinkedIn\GroupWithPosts.cs" />
+    <Compile Include="Model\LinkedIn\People.cs" />
+    <Compile Include="Model\LinkedIn\Post.cs" />
+    <Compile Include="Model\LinkedIn\User.cs" />
+    <Compile Include="Model\Output\TechnicalScore.cs" />
+    <Compile Include="Model\StackExchange\Answer.cs" />
+    <Compile Include="Model\StackExchange\AnswerRoot.cs" />
+    <Compile Include="Model\StackExchange\BadgeCounts.cs" />
+    <Compile Include="Model\StackExchange\Class1.cs" />
+    <Compile Include="Model\StackExchange\NetworkUserRoot.cs" />
+    <Compile Include="Model\StackExchange\Network_Users.cs" />
+    <Compile Include="Model\StackExchange\Question.cs" />
+    <Compile Include="Model\StackExchange\QuestionRoot.cs" />
+    <Compile Include="Model\StackExchange\Shallow_User.cs" />
+    <Compile Include="Model\StackExchange\Site.cs" />
+    <Compile Include="Model\StackExchange\SiteRoot.cs" />
+    <Compile Include="Model\StackExchange\Tag.cs" />
+    <Compile Include="Model\StackExchange\TagRoot.cs" />
+    <Compile Include="Model\StackExchange\Tag_Score.cs" />
+    <Compile Include="Model\StackExchange\Tag_ScoreRoot.cs" />
+    <Compile Include="Model\StackExchange\User.cs" />
+    <Compile Include="Model\StackExchange\UserRoot.cs" />
+    <Compile Include="Model\StackExchange\UserOuter.cs" />
+    <Compile Include="Model\StackExchange\UserScore.cs" />
+    <Compile Include="Model\StackExchange\UserToSearch.cs" />
+    <Compile Include="Model\Twitter\SearchResult.cs" />
+    <Compile Include="Model\Twitter\Timeline.cs" />
+    <Compile Include="Model\Twitter\TwitterStatus.cs" />
+    <Compile Include="Model\Twitter\Users.cs" />
+    <Compile Include="Model\Twitter\UsersRoot.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Source\Helper\Configuration.cs" />
+    <Compile Include="Source\LinkedIn\Main.cs" />
+    <Compile Include="Source\LinkedIn\oAuthBase2.cs" />
+    <Compile Include="Source\LinkedIn\oAuthLinkedIn.cs" />
+    <Compile Include="Source\LinkedIn\OAuthTokens.cs" />
+    <Compile Include="Source\Main\ScoreCalculator.cs" />
+    <Compile Include="Source\StackExchange\Main.cs" />
+    <Compile Include="Source\StackExchange\Sites.cs" />
+    <Compile Include="Source\StackExchange\TopAnswerersOnTag.cs" />
+    <Compile Include="Source\StackExchange\User.cs" />
+    <Compile Include="Source\StackExchange\UserAnswers.cs" />
+    <Compile Include="Source\StackExchange\UserAssociated.cs" />
+    <Compile Include="Source\StackExchange\UserQuestions.cs" />
+    <Compile Include="Source\StackExchange\UserTags.cs" />
+    <Compile Include="Source\StackExchange\User_By_Ids.cs" />
+    <Compile Include="Source\StackExchange\User_Tags_TopAnswers.cs" />
+    <Compile Include="Source\Twitter\Main.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Twitterizer2\Twitterizer2.csproj">
+      <Project>{2fdc3492-6b9e-4771-9755-7892c9cb1e96}</Project>
+      <Name>Twitterizer2</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Source\Twitter\TwitterOAuthTokens.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,99 @@
+https://api.stackexchange.com/docs/users
+
+https://api.stackexchange.com/2.1/users?inname=deepak%20tundwal&site=stackoverflow
+OUTPUT:
+{
+  "items": [
+    {
+      "user_id": 1852224,
+      "user_type": "registered",
+      "creation_date": 1353899366,
+      "display_name": "Deepak Tundwal",
+      "profile_image": "http://www.gravatar.com/avatar/823c3062ca0c4f43dac1be2453f4c0ba?d=identicon&r=PG",
+      "reputation": 11,
+      "reputation_change_day": 0,
+      "reputation_change_week": 0,
+      "reputation_change_month": 0,
+      "reputation_change_quarter": 0,
+      "reputation_change_year": 0,
+      "last_access_date": 1363238993,
+      "last_modified_date": 1353899729,
+      "is_employee": false,
+      "link": "http://stackoverflow.com/users/1852224/deepak-tundwal",
+      "website_url": "",
+      "account_id": 2080032,
+      "badge_counts": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      }
+    },
+    {
+      "user_id": 1852504,
+      "user_type": "registered",
+      "creation_date": 1353910620,
+      "display_name": "Deepak Tundwal",
+      "profile_image": "http://www.gravatar.com/avatar/9274c9cdcad5606c069936108a7cfacb?d=identicon&r=PG",
+      "reputation": 1,
+      "reputation_change_day": 0,
+      "reputation_change_week": 0,
+      "reputation_change_month": 0,
+      "reputation_change_quarter": 0,
+      "reputation_change_year": 0,
+      "last_access_date": 1354107132,
+      "is_employee": false,
+      "link": "http://stackoverflow.com/users/1852504/deepak-tundwal",
+      "account_id": 2080396,
+      "badge_counts": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      }
+    }
+  ],
+  "quota_remaining": 9993,
+  "quota_max": 10000,
+  "has_more": false
+}
+
+https://api.stackexchange.com/2.1/users?inname=johngb&site=onstartups&filter=!9hnGstJFC
+OUTPUT:
+{"items":[{"user_id":9668,"user_type":"registered","creation_date":1302884233,"display_name":"JohnGB","profile_image":"http://www.gravatar.com/avatar/61441c6f0027ee4f4b25b6dcf756f9a3?d=identicon&r=PG","reputation":384,"reputation_change_day":0,"reputation_change_week":0,"reputation_change_month":0,"reputation_change_quarter":28,"reputation_change_year":28,"age":35,"last_access_date":1360617050,"last_modified_date":1332290650,"is_employee":false,"link":"http://answers.onstartups.com/users/9668/johngb","website_url":"http://www.vemble.com","location":"Delft, Netherlands","account_id":136675,"badge_counts":{"gold":0,"silver":1,"bronze":5}}],"quota_remaining":291,"quota_max":300,"has_more":false}
+
+https://api.stackexchange.com/2.1/users?order=desc&sort=reputation&inname=johngb&site=stackoverflow&filter=!9hnGstJFC
+OUTPUT:
+{
+  "items": [
+    {
+      "user_id": 340334,
+      "user_type": "registered",
+      "creation_date": 1273758954,
+      "display_name": "JohnGB",
+      "profile_image": "http://www.gravatar.com/avatar/61441c6f0027ee4f4b25b6dcf756f9a3?d=identicon&r=PG",
+      "reputation": 147,
+      "reputation_change_day": 0,
+      "reputation_change_week": 0,
+      "reputation_change_month": 0,
+      "reputation_change_quarter": 12,
+      "reputation_change_year": 12,
+      "age": 35,
+      "last_access_date": 1363213392,
+      "last_modified_date": 1332302429,
+      "is_employee": false,
+      "link": "http://stackoverflow.com/users/340334/johngb",
+      "website_url": "http://www.vemble.com",
+      "location": "Delft, Netherlands",
+      "account_id": 136675,
+      "badge_counts": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 9
+      },
+      "answer_count": 1,
+      "accept_rate": 67
+    }
+  ],
+  "quota_remaining": 9987,
+  "quota_max": 10000,
+  "has_more": false
+}

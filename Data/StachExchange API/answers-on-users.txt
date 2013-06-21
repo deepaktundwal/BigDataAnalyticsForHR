@@ -1,0 +1,190 @@
+https://api.stackexchange.com/docs/answers-on-users
+
+Filter For AllFields: https://api.stackexchange.com/2.1/users/1852224/answers?order=desc&sort=activity&site=stackoverflow&filter=!bULULwD4DqAE.J
+OUTPUT:
+{
+  "items": [
+    {
+      "question_id": 13627357,
+      "answer_id": 13630728,
+      "creation_date": 1354208017,
+      "last_activity_date": 1354208017,
+      "score": 0,
+      "is_accepted": false,
+      "body": "<p>Make sure the namespace of both the pages are same (source &amp; target pages) otherwise you have to mention the path in uri string. Code for navigating to another screen is same:</p>\n\n<p>NavigationService.Navigate(new Uri(\"/pageNmae.xaml\", UriKind.Relative));</p>\n",
+      "owner": {
+        "user_id": 1852224,
+        "display_name": "Deepak Tundwal",
+        "reputation": 11,
+        "user_type": "registered",
+        "profile_image": "http://www.gravatar.com/avatar/823c3062ca0c4f43dac1be2453f4c0ba?d=identicon&r=PG",
+        "link": "http://stackoverflow.com/users/1852224/deepak-tundwal"
+      },
+      "title": "NavigationServices.Navigate not working",
+      "link": "http://stackoverflow.com/questions/13627357/navigationservices-navigate-not-working/13630728#13630728",
+      "tags": [
+        "c#",
+        "windows-phone-7"
+      ]
+    },
+    {
+      "question_id": 13596096,
+      "answer_id": 13597249,
+      "creation_date": 1354072938,
+      "last_activity_date": 1354072938,
+      "score": 0,
+      "is_accepted": false,
+      "body": "<p>Dropbox officially haven't release SDK for windows phone yet, you can still use it using SharpBox project, click <a href=\"http://sharpbox.codeplex.com\" rel=\"nofollow\">here</a>.</p>\n\n<p>Skydrive is better option, specially for windows phone application as both runs on same platform and provide better features. Response time of Skydrive on windows phone should be faster than Dropbox.</p>\n",
+      "owner": {
+        "user_id": 1852224,
+        "display_name": "Deepak Tundwal",
+        "reputation": 11,
+        "user_type": "registered",
+        "profile_image": "http://www.gravatar.com/avatar/823c3062ca0c4f43dac1be2453f4c0ba?d=identicon&r=PG",
+        "link": "http://stackoverflow.com/users/1852224/deepak-tundwal"
+      },
+      "title": "Downloading a file from server to Windows phone",
+      "link": "http://stackoverflow.com/questions/13596096/downloading-a-file-from-server-to-windows-phone/13597249#13597249",
+      "tags": [
+        "c#",
+        "windows-phone-7"
+      ]
+    },
+    {
+      "question_id": 13576299,
+      "answer_id": 13577098,
+      "creation_date": 1353988039,
+      "last_activity_date": 1353988039,
+      "score": 1,
+      "is_accepted": false,
+      "body": "<p>Applications can override only Back button.\nBoth Search &amp; Start buttons are not available for third-party applications.</p>\n",
+      "owner": {
+        "user_id": 1852224,
+        "display_name": "Deepak Tundwal",
+        "reputation": 11,
+        "user_type": "registered",
+        "profile_image": "http://www.gravatar.com/avatar/823c3062ca0c4f43dac1be2453f4c0ba?d=identicon&r=PG",
+        "link": "http://stackoverflow.com/users/1852224/deepak-tundwal"
+      },
+      "title": "Is it possible to prevent my Windows Phone app from closing?",
+      "link": "http://stackoverflow.com/questions/13576299/is-it-possible-to-prevent-my-windows-phone-app-from-closing/13577098#13577098",
+      "tags": [
+        "c#",
+        "windows-phone-7",
+        "overriding",
+        "closing"
+      ]
+    }
+  ],
+  "quota_remaining": 9977,
+  "quota_max": 10000,
+  "has_more": false
+}
+
+https://api.stackexchange.com/2.1/users/1852224/answers?order=desc&sort=activity&site=stackoverflow
+OUTPUT:
+{
+  "items": [
+    {
+      "question_id": 13627357,
+      "answer_id": 13630728,
+      "creation_date": 1354208017,
+      "last_activity_date": 1354208017,
+      "score": 0,
+      "is_accepted": false,
+      "owner": {
+        "user_id": 1852224,
+        "display_name": "Deepak Tundwal",
+        "reputation": 11,
+        "user_type": "registered",
+        "profile_image": "http://www.gravatar.com/avatar/823c3062ca0c4f43dac1be2453f4c0ba?d=identicon&r=PG",
+        "link": "http://stackoverflow.com/users/1852224/deepak-tundwal"
+      }
+    },
+    {
+      "question_id": 13596096,
+      "answer_id": 13597249,
+      "creation_date": 1354072938,
+      "last_activity_date": 1354072938,
+      "score": 0,
+      "is_accepted": false,
+      "owner": {
+        "user_id": 1852224,
+        "display_name": "Deepak Tundwal",
+        "reputation": 11,
+        "user_type": "registered",
+        "profile_image": "http://www.gravatar.com/avatar/823c3062ca0c4f43dac1be2453f4c0ba?d=identicon&r=PG",
+        "link": "http://stackoverflow.com/users/1852224/deepak-tundwal"
+      }
+    },
+    {
+      "question_id": 13576299,
+      "answer_id": 13577098,
+      "creation_date": 1353988039,
+      "last_activity_date": 1353988039,
+      "score": 1,
+      "is_accepted": false,
+      "owner": {
+        "user_id": 1852224,
+        "display_name": "Deepak Tundwal",
+        "reputation": 11,
+        "user_type": "registered",
+        "profile_image": "http://www.gravatar.com/avatar/823c3062ca0c4f43dac1be2453f4c0ba?d=identicon&r=PG",
+        "link": "http://stackoverflow.com/users/1852224/deepak-tundwal"
+      }
+    }
+  ],
+  "quota_remaining": 9985,
+  "quota_max": 10000,
+  "has_more": false
+}
+
+https://api.stackexchange.com/2.1/users/9668/answers?order=desc&sort=activity&site=onstartups
+OUTPUT:
+{"items":[{"question_id":47067,"answer_id":47070,"creation_date":1359647727,"last_activity_date":1359647727,"score":0,"is_accepted":false,"owner":{"user_id":9668,"display_name":"JohnGB","reputation":384,"user_type":"registered","profile_image":"http://www.gravatar.com/avatar/61441c6f0027ee4f4b25b6dcf756f9a3?d=identicon&r=PG","link":"http://answers.onstartups.com/users/9668/johngb"}},{"question_id":47068,"answer_id":47069,"creation_date":1359647563,"last_activity_date":1359647563,"score":1,"is_accepted":false,"owner":{"user_id":9668,"display_name":"JohnGB","reputation":384,"user_type":"registered","profile_image":"http://www.gravatar.com/avatar/61441c6f0027ee4f4b25b6dcf756f9a3?d=identicon&r=PG","link":"http://answers.onstartups.com/users/9668/johngb"}},{"question_id":30947,"answer_id":30949,"creation_date":1317642366,"last_edit_date":1317650873,"last_activity_date":1317650873,"score":2,"is_accepted":false,"owner":{"user_id":9668,"display_name":"JohnGB","reputation":384,"user_type":"registered","profile_image":"http://www.gravatar.com/avatar/61441c6f0027ee4f4b25b6dcf756f9a3?d=identicon&r=PG","link":"http://answers.onstartups.com/users/9668/johngb"}},{"question_id":30946,"answer_id":30951,"creation_date":1317642733,"last_activity_date":1317642733,"score":2,"is_accepted":false,"owner":{"user_id":9668,"display_name":"JohnGB","reputation":384,"user_type":"registered","profile_image":"http://www.gravatar.com/avatar/61441c6f0027ee4f4b25b6dcf756f9a3?d=identicon&r=PG","link":"http://answers.onstartups.com/users/9668/johngb"}},{"question_id":30919,"answer_id":30929,"creation_date":1317590962,"last_activity_date":1317590962,"score":2,"is_accepted":false,"owner":{"user_id":9668,"display_name":"JohnGB","reputation":384,"user_type":"registered","profile_image":"http://www.gravatar.com/avatar/61441c6f0027ee4f4b25b6dcf756f9a3?d=identicon&r=PG","link":"http://answers.onstartups.com/users/9668/johngb"}},{"question_id":30923,"answer_id":30928,"creation_date":1317590323,"last_activity_date":1317590323,"score":2,"is_accepted":true,"owner":{"user_id":9668,"display_name":"JohnGB","reputation":384,"user_type":"registered","profile_image":"http://www.gravatar.com/avatar/61441c6f0027ee4f4b25b6dcf756f9a3?d=identicon&r=PG","link":"http://answers.onstartups.com/users/9668/johngb"}},{"question_id":30925,"answer_id":30926,"creation_date":1317589793,"last_activity_date":1317589793,"score":5,"is_accepted":true,"owner":{"user_id":9668,"display_name":"JohnGB","reputation":384,"user_type":"registered","profile_image":"http://www.gravatar.com/avatar/61441c6f0027ee4f4b25b6dcf756f9a3?d=identicon&r=PG","link":"http://answers.onstartups.com/users/9668/johngb"}},{"question_id":30814,"answer_id":30914,"creation_date":1317567660,"last_activity_date":1317567660,"score":0,"is_accepted":true,"owner":{"user_id":9668,"display_name":"JohnGB","reputation":384,"user_type":"registered","profile_image":"http://www.gravatar.com/avatar/61441c6f0027ee4f4b25b6dcf756f9a3?d=identicon&r=PG","link":"http://answers.onstartups.com/users/9668/johngb"}},{"question_id":30896,"answer_id":30913,"creation_date":1317567074,"last_activity_date":1317567074,"score":2,"is_accepted":true,"owner":{"user_id":9668,"display_name":"JohnGB","reputation":384,"user_type":"registered","profile_image":"http://www.gravatar.com/avatar/61441c6f0027ee4f4b25b6dcf756f9a3?d=identicon&r=PG","link":"http://answers.onstartups.com/users/9668/johngb"}},{"question_id":30911,"answer_id":30912,"creation_date":1317566718,"last_activity_date":1317566718,"score":1,"is_accepted":true,"owner":{"user_id":9668,"display_name":"JohnGB","reputation":384,"user_type":"registered","profile_image":"http://www.gravatar.com/avatar/61441c6f0027ee4f4b25b6dcf756f9a3?d=identicon&r=PG","link":"http://answers.onstartups.com/users/9668/johngb"}},{"question_id":24925,"answer_id":24939,"creation_date":1305418940,"last_activity_date":1305418940,"score":3,"is_accepted":false,"owner":{"user_id":9668,"display_name":"JohnGB","reputation":384,"user_type":"registered","profile_image":"http://www.gravatar.com/avatar/61441c6f0027ee4f4b25b6dcf756f9a3?d=identicon&r=PG","link":"http://answers.onstartups.com/users/9668/johngb"}}],"quota_remaining":283,"quota_max":300,"has_more":false}
+
+{
+"items":[
+{
+"question_id":47067,
+"answer_id":47070,
+"creation_date":1359647727,
+"last_activity_date":1359647727,
+"score":0,
+"is_accepted":false,
+"owner":{
+"user_id":9668,
+"display_name":"JohnGB",
+"reputation":384,
+"user_type":"registered",
+"profile_image":"http://www.gravatar.com/avatar/61441c6f0027ee4f4b25b6dcf756f9a3?d=identicon&r=PG",
+"link":"http://answers.onstartups.com/users/9668/johngb"
+}
+},
+{
+"question_id":47068,
+"answer_id":47069,
+"creation_date":1359647563,
+"last_activity_date":1359647563,
+"score":1,
+"is_accepted":false,
+"owner":{
+"user_id":9668,
+"display_name":"JohnGB",
+"reputation":384,
+"user_type":"registered",
+"profile_image":"http://www.gravatar.com/avatar/61441c6f0027ee4f4b25b6dcf756f9a3?d=identicon&r=PG",
+"link":"http://answers.onstartups.com/users/9668/johngb"
+}
+},...
+],
+"quota_remaining":283,
+"quota_max":300,
+"has_more":false
+}
+
+
+
+
+
+

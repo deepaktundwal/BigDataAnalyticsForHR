@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DEEPAK-WIN8</Machine>
+    <WindowsUser>Deepak</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>D736B162BBBD18ABB07051DE8B93AF112AA51344C836B2E62530EA6ED6CA25AC</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>d090e4c4-601c-413e-8f38-366ddfd66482_1.0.0.0_neutral__9qevcg6210hgp</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>d090e4c4-601c-413e-8f38-366ddfd66482_9qevcg6210hgp!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>d090e4c4-601c-413e-8f38-366ddfd66482</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Deepak</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\BigDataAnalyticsForHR\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-06-05T17:15:01.872</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\BigDataAnalyticsForHR\bin\Debug\BigDataAnalyticsForHR.exe">
+      <PackagePath>BigDataAnalyticsForHR.exe</PackagePath>
+      <Modified>2013-06-05T17:35:13.446</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\BigDataAnalyticsForHR\bin\Debug\BigDataAnalyticsForHR.pdb">
+      <PackagePath>BigDataAnalyticsForHR.pdb</PackagePath>
+      <Modified>2013-06-05T17:35:13.421</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\BigDataAnalyticsForHR\ModernUI.Toolkit.Data.Charting.dll">
+      <PackagePath>ModernUI.Toolkit.Data.Charting.dll</PackagePath>
+      <Modified>2012-09-29T08:38:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\Newtonsoft.Json\bin\Debug\WinRT\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2013-03-31T05:09:09.380</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\BigDataAnalyticsForHR\ModernUI.Toolkit.Data.Charting.pdb">
+      <PackagePath>ModernUI.Toolkit.Data.Charting.pdb</PackagePath>
+      <Modified>2012-09-29T08:38:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\Newtonsoft.Json\bin\Debug\WinRT\Newtonsoft.Json.pdb">
+      <PackagePath>Newtonsoft.Json.pdb</PackagePath>
+      <Modified>2013-03-31T05:09:09.348</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\BigDataAnalyticsForHR\Assets\2f133_msdn_new_logo.png">
+      <PackagePath>Assets\2f133_msdn_new_logo.png</PackagePath>
+      <Modified>2013-03-30T17:29:14.579</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\BigDataAnalyticsForHR\Assets\BadgesBkg.png">
+      <PackagePath>Assets\BadgesBkg.png</PackagePath>
+      <Modified>2013-03-31T17:50:55.108</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\BigDataAnalyticsForHR\Assets\linkedin-logo.png">
+      <PackagePath>Assets\linkedin-logo.png</PackagePath>
+      <Modified>2013-03-30T16:53:26.161</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\BigDataAnalyticsForHR\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T04:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\BigDataAnalyticsForHR\Assets\no_user_logo.png">
+      <PackagePath>Assets\no_user_logo.png</PackagePath>
+      <Modified>2013-03-30T14:44:09.512</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\BigDataAnalyticsForHR\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T04:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\BigDataAnalyticsForHR\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T04:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\BigDataAnalyticsForHR\Assets\stackexchange1.png">
+      <PackagePath>Assets\stackexchange1.png</PackagePath>
+      <Modified>2013-03-30T16:24:15.153</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\BigDataAnalyticsForHR\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T04:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\BigDataAnalyticsForHR\Assets\twitter-bird-blue-on-white.png">
+      <PackagePath>Assets\twitter-bird-blue-on-white.png</PackagePath>
+      <Modified>2013-04-21T06:28:22.126</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\BigDataAnalyticsForHR\Assets\twitter-bird-dark-bgs.png">
+      <PackagePath>Assets\twitter-bird-dark-bgs.png</PackagePath>
+      <Modified>2013-04-21T06:28:16.753</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\BigDataAnalyticsForHR\Assets\twitter-bird-light-bgs.png">
+      <PackagePath>Assets\twitter-bird-light-bgs.png</PackagePath>
+      <Modified>2013-04-21T06:21:48.994</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\BigDataAnalyticsForHR\Assets\twitter-bird-white-on-blue.png">
+      <PackagePath>Assets\twitter-bird-white-on-blue.png</PackagePath>
+      <Modified>2013-04-21T06:28:26.241</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\BigDataAnalyticsForHR\Assets\blogger-logo.jpg">
+      <PackagePath>Assets\blogger-logo.jpg</PackagePath>
+      <Modified>2013-03-30T17:44:10.460</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\BigDataAnalyticsForHR\Assets\Trophy-Bronze.jpg">
+      <PackagePath>Assets\Trophy-Bronze.jpg</PackagePath>
+      <Modified>2013-03-30T18:02:13.721</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\BigDataAnalyticsForHR\Assets\Trophy-Gold.jpg">
+      <PackagePath>Assets\Trophy-Gold.jpg</PackagePath>
+      <Modified>2013-03-30T17:59:19.123</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\BigDataAnalyticsForHR\Assets\Trophy-Silver.jpg">
+      <PackagePath>Assets\Trophy-Silver.jpg</PackagePath>
+      <Modified>2013-03-30T18:00:39.999</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\BigDataAnalyticsForHR\Assets\LinkedInlogo.gif">
+      <PackagePath>Assets\LinkedInlogo.gif</PackagePath>
+      <Modified>2013-04-30T14:12:12.014</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\BigDataAnalyticsForHR\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2013-03-31T04:39:04.766</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\BigDataAnalyticsForHR\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-03-31T04:30:13.707</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\BigDataAnalyticsForHR\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-27T00:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\BigDataAnalyticsForHR\bin\Debug\MainScreen.xaml">
+      <PackagePath>MainScreen.xaml</PackagePath>
+      <Modified>2013-05-19T12:18:44.639</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\BigDataAnalyticsForHR\bin\Debug\Questions.xaml">
+      <PackagePath>Questions.xaml</PackagePath>
+      <Modified>2013-04-08T19:38:48.479</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\BigDataAnalyticsForHR\bin\Debug\ResultScreen.xaml">
+      <PackagePath>ResultScreen.xaml</PackagePath>
+      <Modified>2013-05-02T04:34:56.643</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\BigDataAnalyticsForHR\bin\Debug\StackExchangeDetails.xaml">
+      <PackagePath>StackExchangeDetails.xaml</PackagePath>
+      <Modified>2013-04-09T06:55:21.903</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\BigDataAnalyticsForHR\bin\Debug\UserDetail.xaml">
+      <PackagePath>UserDetail.xaml</PackagePath>
+      <Modified>2013-06-05T04:21:13.857</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\BigDataAnalyticsForHR\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-06-05T17:15:00.264</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

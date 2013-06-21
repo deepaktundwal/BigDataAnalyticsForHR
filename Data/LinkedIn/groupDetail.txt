@@ -1,0 +1,14 @@
+http://api.linkedin.com/v1/groups/2848695:(id,name,site-group-url,short-description,description,category,large-logo-url,small-logo-url)
+
+http://api.linkedin.com/v1/groups/2848695:(id,name,site-group-url,short-description,description,category,large-logo-url,small-logo-url)?format=json&oauth_consumer_key=6bpbbe18d3g5&oauth_nonce=1234&oauth_signature=%2B%2Brf7x%2FBSenqL4pYU8nRICULRSk%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1367337835&oauth_token=dd82d23a-5631-458c-9de3-ec8cfe5a8476&oauth_version=1.0
+
+{
+  "category": {"code": "professional"},
+  "description": "This is the group dedicated to the Windows Phone platform.  Discuss apps you have created, Silverlight and XNA tips/tricks, and anything else relevant to the platform.",
+  "id": "2848695",
+  "largeLogoUrl": "http://m3.licdn.com/mpr/mpr/p/2/000/07d/2fb/041a313.png",
+  "name": "Windows Phone 7 Users Group",
+  "shortDescription": "Dedicated to development on the Windows Phone platform.  Discuss apps you are creating, whether they are games, line-of-business applications, or anything in between.  A place to share opportunities and learn about the platform.",
+  "siteGroupUrl": "http://www.linkedin.com/groups?gid=2848695&trk=api*a276088*s283760*",
+  "smallLogoUrl": "http://m3.licdn.com/mpr/mpr/p/3/000/07d/2fb/0c8e3e4.png"
+}

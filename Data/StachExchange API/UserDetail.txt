@@ -1,0 +1,36 @@
+http://json2csharp.com/
+http://blog.stackexchange.com/2012/04/stack-exchange-api-v2-0-contest-winners/
+https://api.stackexchange.com/docs
+https://api.stackexchange.com/docs/users#order=desc&sort=reputation&inname=Deepak%20Tundwal&filter=!9hnGstJFC&site=stackoverflow&run=true
+
+Search StackOverFlowUser:
+https://api.stackexchange.com/2.1/users?inname=Deepak%20Tundwal&site=stackoverflow&filter=!9hnGstJFC
+http://api.stackoverflow.com/1.1/users?filter=deepak%20tundwal
+https://api.stackexchange.com/2.1/users?inname=Jeff%20Atwood&site=stackoverflow
+https://api.stackexchange.com/2.1/users?inname=johngb&site=onstartups
+
+http://stackexchange.com/users/136675/johngb?tab=accounts
+
+userId:
+1852224
+4595
+AccountId
+2080032
+136675
+
+associated:
+https://api.stackexchange.com/2.1/users/136675/associated
+
+User Feeds:
+http://meta.stackoverflow.com/feeds/user/149309
+http://stackoverflow.com/feeds/user/1852224
+
+Question Feeds:
+http://stackoverflow.com/feeds/question/13627357
+
+<re:rank..... is used for know the status of the answer (3 if marked as answered, 0 for none)
+
+Parse their answer-source:
+http://meta.stackoverflow.com/api/useranswers.html?userid=1852224&page=1&pagesize=10&sort=recent
+List for answer true:
+http://stack2rss.stackexchange.com/superuser/users/1/answers&body=true

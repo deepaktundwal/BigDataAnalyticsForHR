@@ -1,0 +1,8 @@
+http://stackapps.com/apps/oauth/view/1626
+
+Client Id: 1626
+Client Secret: HkCREZK10XRB1FSVEiLEAg((
+Key: E36N3n0DeH13NVIhcj0dRg((
+
+https://api.stackexchange.com/docs/authentication#scope
+https://stackexchange.com/oauth?client_id=1626&scope=read_inbox,no_expiry&redirect_uri=www.localhost.com

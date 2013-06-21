@@ -1,0 +1,8 @@
+C:\Users\Deepak\Downloads\Twitterizer-develop\Twitterizer-develop\Debug\Twitterizer2\Full\GettingStarted.txt
+C:\Users\Deepak\Downloads\Twitterizer-develop\Twitterizer-develop\Debug\Twitterizer2\Full\Twitterizer2.license.txt
+C:\Users\Deepak\Downloads\Twitterizer-develop\Twitterizer-develop\Debug\Twitterizer2\Full\Twitterizer2.XML
+C:\Users\Deepak\Downloads\Twitterizer-develop\Twitterizer-develop\Debug\Twitterizer2\Full\Twitterizer2.dll
+C:\Users\Deepak\Downloads\Twitterizer-develop\Twitterizer-develop\Debug\Twitterizer2\Full\Twitterizer2.pdb
+C:\Users\Deepak\Downloads\Twitterizer-develop\Twitterizer-develop\Twitterizer2\obj\Debug\Twitterizer2.csprojResolveAssemblyReference.cache
+C:\Users\Deepak\Downloads\Twitterizer-develop\Twitterizer-develop\Twitterizer2\obj\Debug\Twitterizer2.dll
+C:\Users\Deepak\Downloads\Twitterizer-develop\Twitterizer-develop\Twitterizer2\obj\Debug\Twitterizer2.pdb

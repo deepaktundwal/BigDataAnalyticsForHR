@@ -1,0 +1,21 @@
+https://developer.linkedin.com/documents/groups-api#post
+
+http://api.linkedin.com/v1/people/id=SHdKZUiQ-a/group-memberships/2848695/posts:(creator:(first-name,last-name,picture-url),title,summary,creation-timestamp,likes,comments,attachment:(image-url,content-domain,content-url,title,summary))
+category=discussion&role=creator&format=json
+
+http://api.linkedin.com/v1/people/id=SHdKZUiQ-a/group-memberships/2848695/posts:(creator:(first-name,last-name,picture-url),title,summary,creation-timestamp,likes,comments,attachment:(image-url,content-domain,content-url,title,summary))?category=discussion&format=json&oauth_consumer_key=6bpbbe18d3g5&oauth_nonce=1234&oauth_signature=bXgPSw%2B7SsgmLWP%2Bx%2BZ94MtR0yk%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1367337342&oauth_token=dd82d23a-5631-458c-9de3-ec8cfe5a8476&oauth_version=1.0&role=creator
+
+{
+  "_total": 1,
+  "values": [{
+    "comments": {"_total": 0},
+    "creationTimestamp": 1367337236000,
+    "creator": {
+      "firstName": "Deepak",
+      "lastName": "Tundwal",
+      "pictureUrl": "http://m3.licdn.com/mpr/mprx/0_pl4feBXmB2PSj3awt90yeqvfBu6Sx3OwY12Kez61eW-g85dIKBHi6vtjMGQtp60bjtVAbt4yqCsP"
+    },
+    "likes": {"_total": 0},
+    "title": "When is Microsoft releasing centralized notification center?"
+  }]
+}

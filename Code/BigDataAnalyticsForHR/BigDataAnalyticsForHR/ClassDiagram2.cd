@@ -1,0 +1,315 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BigDataAnalyticsForHR.App" Collapsed="true">
+    <Position X="15" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAIAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BigDataAnalyticsForHR.Constants" Collapsed="true">
+    <Position X="11.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIQAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Constants.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BigDataAnalyticsForHR.MainScreen" Collapsed="true">
+    <Position X="2.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAQAAAAAAAAIgAAAAAAAAAgAAAgAAAAAAAA=</HashCode>
+      <FileName>MainScreen.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BigDataAnalyticsForHR.Helpers" Collapsed="true">
+    <Position X="13.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAQACAAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MainScreen.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BigDataAnalyticsForHR.PlugInHandler" Collapsed="true">
+    <Position X="9.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>MainScreen.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BigDataAnalyticsForHR.Questions" Collapsed="true">
+    <Position X="5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAQAAAAAAAIAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Questions.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BigDataAnalyticsForHR.StackExchangeDetails" Collapsed="true">
+    <Position X="7.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAIgAAIAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>StackExchangeDetails.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BigDataAnalyticsForHR.NameValueItem" Collapsed="true">
+    <Position X="15" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAIAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>StackExchangeDetails.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BigDataAnalyticsForHR.UserDetail" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAIAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>UserDetail.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BigDataAnalyticsForHR.Common.BindableBase" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="18.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAgAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\BindableBase.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BigDataAnalyticsForHR.Common.BooleanNegationConverter" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="20.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\BooleanNegationConverter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BigDataAnalyticsForHR.Common.BooleanToVisibilityConverter" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\BooleanToVisibilityConverter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BigDataAnalyticsForHR.Common.LayoutAwarePage" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAQgAAAACAAIAAAAAAIQAQQAAAYAA0AAAAAAAAAAUg=</HashCode>
+      <FileName>Common\LayoutAwarePage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BigDataAnalyticsForHR.Common.RichTextColumns" Collapsed="true">
+    <Position X="13.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAEAAgAAAAAAAQAAAAACAAQAAAAAgAAAAAABAAAAAA=</HashCode>
+      <FileName>Common\RichTextColumns.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BigDataAnalyticsForHR.Common.SuspensionManager" Collapsed="true">
+    <Position X="11.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAaIAASCBEAAAICAAAAAIAAAAAAAAAAIAAAABA=</HashCode>
+      <FileName>Common\SuspensionManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BigDataAnalyticsForHR.Common.SuspensionManagerException" Collapsed="true">
+    <Position X="13.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\SuspensionManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BigDataAnalyticsForHR_Server.Model.Answer" Collapsed="true">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAQAAAAAAAAMAIAAAAAwgAAAIAAABAAAAAAEA=</HashCode>
+      <FileName>C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\BigDataAnalyticsForHR_Server\Model\Answer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BigDataAnalyticsForHR_Server.Model.AnswerRoot" Collapsed="true">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAAAAQAAAggAAAAAAAAAA=</HashCode>
+      <FileName>C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\BigDataAnalyticsForHR_Server\Model\AnswerRoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BigDataAnalyticsForHR_Server.Model.AnswerRootConverter" Collapsed="true">
+    <Position X="13.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\BigDataAnalyticsForHR_Server\Model\AnswerRoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BigDataAnalyticsForHR_Server.Model.BadgeCounts" Collapsed="true">
+    <Position X="16.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\BigDataAnalyticsForHR_Server\Model\BadgeCounts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BigDataAnalyticsForHR_Server.Model.Network_Users" Collapsed="true">
+    <Position X="16.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAACgAAAAAQAQAACAAAAAAAgAAAAAAAAAAEAAgAE=</HashCode>
+      <FileName>C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\BigDataAnalyticsForHR_Server\Model\Network_Users.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BigDataAnalyticsForHR_Server.Model.NetworkUserRoot" Collapsed="true">
+    <Position X="18.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAAAAQAAAggAAAAAAAAAA=</HashCode>
+      <FileName>C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\BigDataAnalyticsForHR_Server\Model\NetworkUserRoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BigDataAnalyticsForHR_Server.Model.NetworkUserRootConverter" Collapsed="true">
+    <Position X="20.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\BigDataAnalyticsForHR_Server\Model\NetworkUserRoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BigDataAnalyticsForHR_Server.Model.Shallow_User" Collapsed="true">
+    <Position X="15" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAgAAAAAAAAAAAAAAAAACAAgAAAAAAAAAAAgEE=</HashCode>
+      <FileName>C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\BigDataAnalyticsForHR_Server\Model\Shallow_User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BigDataAnalyticsForHR_Server.Model.Site" Collapsed="true">
+    <Position X="16.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAASBAAAABAAAgQECAAAAAAAAgAAAAA=</HashCode>
+      <FileName>C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\BigDataAnalyticsForHR_Server\Model\Site.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BigDataAnalyticsForHR_Server.Model.Styling" Collapsed="true">
+    <Position X="9.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAgBAAAAA=</HashCode>
+      <FileName>C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\BigDataAnalyticsForHR_Server\Model\Site.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BigDataAnalyticsForHR_Server.Model.RelatedSite" Collapsed="true">
+    <Position X="11.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAACAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\BigDataAnalyticsForHR_Server\Model\Site.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BigDataAnalyticsForHR_Server.Model.SiteRoot" Collapsed="true">
+    <Position X="18.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAAAAQAAAggAAAAAAAAAA=</HashCode>
+      <FileName>C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\BigDataAnalyticsForHR_Server\Model\SiteRoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BigDataAnalyticsForHR_Server.Model.SiteRootConverter" Collapsed="true">
+    <Position X="20.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\BigDataAnalyticsForHR_Server\Model\SiteRoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BigDataAnalyticsForHR_Server.Model.Tag" Collapsed="true">
+    <Position X="15" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\BigDataAnalyticsForHR_Server\Model\Tag.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BigDataAnalyticsForHR_Server.Model.Tag_Score" Collapsed="true">
+    <Position X="16.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\BigDataAnalyticsForHR_Server\Model\Tag_Score.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BigDataAnalyticsForHR_Server.Model.Tag_ScoreRoot" Collapsed="true">
+    <Position X="18.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAAAAQAAAggAAAAAAAAAA=</HashCode>
+      <FileName>C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\BigDataAnalyticsForHR_Server\Model\Tag_ScoreRoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BigDataAnalyticsForHR_Server.Model.Tag_ScoreRootConverter" Collapsed="true">
+    <Position X="20.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\BigDataAnalyticsForHR_Server\Model\Tag_ScoreRoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BigDataAnalyticsForHR_Server.Model.TagRoot" Collapsed="true">
+    <Position X="9.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAAAAQAAAggAAAAAAAAAA=</HashCode>
+      <FileName>C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\BigDataAnalyticsForHR_Server\Model\TagRoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BigDataAnalyticsForHR_Server.Model.TagRootConverter" Collapsed="true">
+    <Position X="11.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\BigDataAnalyticsForHR_Server\Model\TagRoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BigDataAnalyticsForHR_Server.Model.User" Collapsed="true">
+    <Position X="13.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BCAgAACgAAAATQAAAACAAAACACgAggAAAAAAQAAAgEU=</HashCode>
+      <FileName>C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\BigDataAnalyticsForHR_Server\Model\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BigDataAnalyticsForHR_Server.Model.UserOuter" Collapsed="true">
+    <Position X="16.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAAAARAAAggAAAAAAAAAA=</HashCode>
+      <FileName>C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\BigDataAnalyticsForHR_Server\Model\UserOuter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BigDataAnalyticsForHR_Server.Model.UserRoot" Collapsed="true">
+    <Position X="18.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAAAARAAAggAAAAAAAAAA=</HashCode>
+      <FileName>C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\BigDataAnalyticsForHR_Server\Model\UserRoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BigDataAnalyticsForHR_Server.Model.UserConverter" Collapsed="true">
+    <Position X="15" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\BigDataAnalyticsForHR_Server\Model\UserRoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BigDataAnalyticsForHR_Server.Model.UserScoreDetailRoot" Collapsed="true">
+    <Position X="13.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAQAgAAACAAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\BigDataAnalyticsForHR_Server\Model\UserScore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BigDataAnalyticsForHR_Server.Model.UserScoreDetailConverter" Collapsed="true">
+    <Position X="11.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\BigDataAnalyticsForHR_Server\Model\UserScore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BigDataAnalyticsForHR_Server.Model.UserScoreDetail" Collapsed="true">
+    <Position X="9.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAgAAAAACAAAACAAAACACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\BigDataAnalyticsForHR_Server\Model\UserScore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BigDataAnalyticsForHR_Server.Model.UserScore" Collapsed="true">
+    <Position X="20.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACEAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAACgAQ=</HashCode>
+      <FileName>C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\BigDataAnalyticsForHR_Server\Model\UserScore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BigDataAnalyticsForHR_Server.Model.UserToSearch" Collapsed="true">
+    <Position X="15" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAADCgAAAAAAAAAgiAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\BigDataAnalyticsForHR_Server\Model\UserToSearch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

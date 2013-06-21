@@ -1,0 +1,311 @@
+https://api.stackexchange.com/docs/associated-users
+
+https://api.stackexchange.com/2.1/users/2080032/associated
+OUTPUT:
+{
+  "items": [
+    {
+      "site_name": "Stack Overflow",
+      "site_url": "http://stackoverflow.com",
+      "user_id": 1852224,
+      "reputation": 11,
+      "account_id": 2080032,
+      "creation_date": 1353899366,
+      "badge_counts": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      },
+      "last_access_date": 1363238993,
+      "answer_count": 3,
+      "question_count": 0
+    },
+    {
+      "site_name": "Stack Apps",
+      "site_url": "http://stackapps.com",
+      "user_id": 18915,
+      "reputation": 1,
+      "account_id": 2080032,
+      "creation_date": 1363173870,
+      "badge_counts": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      "last_access_date": 1363234511,
+      "answer_count": 0,
+      "question_count": 0
+    }
+  ],
+  "quota_remaining": 9978,
+  "quota_max": 10000,
+  "has_more": false
+}
+
+https://api.stackexchange.com/2.1/users/136675/associated
+OUTPUT:
+{
+  "items": [
+    {
+      "site_name": "Stack Overflow",
+      "site_url": "http://stackoverflow.com",
+      "user_id": 340334,
+      "reputation": 147,
+      "account_id": 136675,
+      "creation_date": 1273758954,
+      "badge_counts": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 9
+      },
+      "last_access_date": 1363213392,
+      "answer_count": 1,
+      "question_count": 6
+    },
+    {
+      "site_name": "Super User",
+      "site_url": "http://superuser.com",
+      "user_id": 124054,
+      "reputation": 101,
+      "account_id": 136675,
+      "creation_date": 1332325341,
+      "badge_counts": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2
+      },
+      "last_access_date": 1361957227,
+      "answer_count": 1,
+      "question_count": 0
+    },
+    {
+      "site_name": "Meta Stack Overflow",
+      "site_url": "http://meta.stackoverflow.com",
+      "user_id": 170061,
+      "reputation": 329,
+      "account_id": 136675,
+      "creation_date": 1317332042,
+      "badge_counts": {
+        "gold": 0,
+        "silver": 2,
+        "bronze": 5
+      },
+      "last_access_date": 1362423565,
+      "answer_count": 0,
+      "question_count": 2
+    },
+    {
+      "site_name": "Web Applications",
+      "site_url": "http://webapps.stackexchange.com",
+      "user_id": 10265,
+      "reputation": 101,
+      "account_id": 136675,
+      "creation_date": 1303038281,
+      "badge_counts": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      },
+      "last_access_date": 1357638788,
+      "answer_count": 0,
+      "question_count": 0
+    },
+    {
+      "site_name": "Webmasters",
+      "site_url": "http://webmasters.stackexchange.com",
+      "user_id": 6922,
+      "reputation": 101,
+      "account_id": 136675,
+      "creation_date": 1303062614,
+      "badge_counts": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      },
+      "last_access_date": 1338379569,
+      "answer_count": 0,
+      "question_count": 0
+    },
+    {
+      "site_name": "Game Development",
+      "site_url": "http://gamedev.stackexchange.com",
+      "user_id": 10819,
+      "reputation": 131,
+      "account_id": 136675,
+      "creation_date": 1319828120,
+      "badge_counts": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 3
+      },
+      "last_access_date": 1320751427,
+      "answer_count": 0,
+      "question_count": 1
+    },
+    {
+      "site_name": "Cross Validated",
+      "site_url": "http://stats.stackexchange.com",
+      "user_id": 4202,
+      "reputation": 101,
+      "account_id": 136675,
+      "creation_date": 1303039852,
+      "badge_counts": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      },
+      "last_access_date": 1360988171,
+      "answer_count": 0,
+      "question_count": 0
+    },
+    {
+      "site_name": "English Language and Usage",
+      "site_url": "http://english.stackexchange.com",
+      "user_id": 16375,
+      "reputation": 111,
+      "account_id": 136675,
+      "creation_date": 1324922715,
+      "badge_counts": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 4
+      },
+      "last_access_date": 1332339344,
+      "answer_count": 0,
+      "question_count": 1
+    },
+    {
+      "site_name": "User Experience",
+      "site_url": "http://ux.stackexchange.com",
+      "user_id": 4595,
+      "reputation": 25646,
+      "account_id": 136675,
+      "creation_date": 1302522283,
+      "badge_counts": {
+        "gold": 7,
+        "silver": 43,
+        "bronze": 115
+      },
+      "last_access_date": 1363259347,
+      "answer_count": 471,
+      "question_count": 50
+    },
+    {
+      "site_name": "OnStartups",
+      "site_url": "http://answers.onstartups.com",
+      "user_id": 9668,
+      "reputation": 384,
+      "account_id": 136675,
+      "creation_date": 1302884233,
+      "badge_counts": {
+        "gold": 0,
+        "silver": 1,
+        "bronze": 5
+      },
+      "last_access_date": 1360617050,
+      "answer_count": 11,
+      "question_count": 0
+    },
+    {
+      "site_name": "IT Security",
+      "site_url": "http://security.stackexchange.com",
+      "user_id": 17273,
+      "reputation": 101,
+      "account_id": 136675,
+      "creation_date": 1355808309,
+      "badge_counts": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2
+      },
+      "last_access_date": 1355808309,
+      "answer_count": 0,
+      "question_count": 0
+    },
+    {
+      "site_name": "Graphic Design",
+      "site_url": "http://graphicdesign.stackexchange.com",
+      "user_id": 1983,
+      "reputation": 143,
+      "account_id": 136675,
+      "creation_date": 1311248255,
+      "badge_counts": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 5
+      },
+      "last_access_date": 1338908943,
+      "answer_count": 1,
+      "question_count": 1
+    },
+    {
+      "site_name": "Physical Fitness",
+      "site_url": "http://fitness.stackexchange.com",
+      "user_id": 2062,
+      "reputation": 131,
+      "account_id": 136675,
+      "creation_date": 1317107242,
+      "badge_counts": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 3
+      },
+      "last_access_date": 1363050913,
+      "answer_count": 1,
+      "question_count": 0
+    },
+    {
+      "site_name": "Travel Answers",
+      "site_url": "http://travel.stackexchange.com",
+      "user_id": 4037,
+      "reputation": 101,
+      "account_id": 136675,
+      "creation_date": 1358888456,
+      "badge_counts": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      },
+      "last_access_date": 1358888456,
+      "answer_count": 0,
+      "question_count": 0
+    },
+    {
+      "site_name": "Computational Science",
+      "site_url": "http://scicomp.stackexchange.com",
+      "user_id": 1490,
+      "reputation": 101,
+      "account_id": 136675,
+      "creation_date": 1337352998,
+      "badge_counts": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2
+      },
+      "last_access_date": 1337352998,
+      "answer_count": 0,
+      "question_count": 0
+    },
+    {
+      "site_name": "Cognitive Sciences",
+      "site_url": "http://cogsci.stackexchange.com",
+      "user_id": 738,
+      "reputation": 101,
+      "account_id": 136675,
+      "creation_date": 1337352870,
+      "badge_counts": {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      },
+      "last_access_date": 1361423613,
+      "answer_count": 0,
+      "question_count": 0
+    }
+  ],
+  "quota_remaining": 9977,
+  "quota_max": 10000,
+  "has_more": false
+}
+
+

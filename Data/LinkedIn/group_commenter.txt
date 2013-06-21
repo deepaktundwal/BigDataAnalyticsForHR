@@ -1,0 +1,250 @@
+
+http://api.linkedin.com/v1/people/id=SHdKZUiQ-a/group-memberships/2848695/posts:(creator:(first-name,last-name,picture-url),title,summary,creation-timestamp,likes,comments,attachment:(image-url,content-domain,content-url,title,summary))
+category=discussion&role=commenter&format=json
+
+http://api.linkedin.com/v1/people/id=SHdKZUiQ-a/group-memberships/1169987/posts:(creator:(first-name,last-name,picture-url),title,summary,creation-timestamp,likes,comments,attachment:(image-url,content-domain,content-url,title,summary))?category=discussion&format=json&oauth_consumer_key=6bpbbe18d3g5&oauth_nonce=1234&oauth_signature=%2Fab%2BiXNo8MAoyxOmxdibV5guUqk%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1367340024&oauth_token=dd82d23a-5631-458c-9de3-ec8cfe5a8476&oauth_version=1.0&role=commenter
+
+{
+  "_total": 2,
+  "values": [
+    {
+      "attachment": {
+        "contentDomain": "mobidev.biz",
+        "contentUrl": "http://mobidev.biz/blogs/native_app_vs_web_app%3A_perhaps_a_hybrid%3F.html",
+        "imageUrl": "http://mobidev.biz/images/preview/blog_123_210on150.2.png",
+        "summary": "Hybrid mobile applications are functionally somewhere between native apps and web apps. As these two types of mobile software serve completely different purposes, standing poles apart, hybrid apps fill the space between them,...",
+        "title": "Native App vs. Web App: Perhaps A Hybrid?"
+      },
+      "comments": {
+        "_total": 1,
+        "values": [{
+          "creationTimestamp": 1367339133691,
+          "creator": {
+            "firstName": "Deepak",
+            "headline": "Technology Architect at Accenture",
+            "id": "SHdKZUiQ-a",
+            "lastName": "Tundwal",
+            "pictureUrl": "http://m3.licdn.com/mpr/mprx/0_pl4feBXmB2PSj3awt90yeqvfBu6Sx3OwY12Kez61eW-g85dIKBHi6vtjMGQtp60bjtVAbt4yqCsP"
+          },
+          "id": "g-1169987-S-233003332-134641580",
+          "relationToViewer": {"availableActions": {
+            "_total": 1,
+            "values": [{"code": "delete"}]
+          }},
+          "text": "Clearly depends on your requirement & available resources."
+        }]
+      },
+      "creationTimestamp": 1366187746000,
+      "creator": {
+        "firstName": "Igor",
+        "lastName": "P.",
+        "pictureUrl": "http://m3.licdn.com/mpr/mprx/0_XGm9LHatdfdMcoHZ637dLEygWoDZvoWZQisWLwSfnuJeEmY4eXYVwIJ3bFSb9DeNL3uHo20s75_C"
+      },
+      "likes": {
+        "_total": 1,
+        "values": [{"person": {
+          "firstName": "Nithish",
+          "headline": "Technical Consultant at AirWatch",
+          "id": "g2zGPqhre_",
+          "lastName": "R."
+        }}]
+      },
+      "summary": "Hybrid mobile applications are functionally somewhere between native apps and web apps. As these two types of mobile software serve completely different purposes, standing poles apart, hybrid apps fill the space between them,...",
+      "title": "Native App vs. Web App: Perhaps A Hybrid?"
+    },
+    {
+      "attachment": {
+        "contentDomain": "",
+        "contentUrl": "http://mobileenterprisestrategies.blogspot.com/2013/03/mobility-news-weekly-week-of-march-24.html",
+        "imageUrl": "http://2.bp.blogspot.com/-7kJnTKA7Ujc/UVMOmqby5XI/AAAAAAAAGZI/SBORgek7tnU/s200/NetcentricLogo+SMALL+Feb+2012.png",
+        "summary": "The Mobility News Weekly is an online newsletter made up of the most interesting news and articles related to enterprise mobility that I run across each week. I am specifically targeting information that reflects market data...",
+        "title": "MobileEnterpriseStrategies.com"
+      },
+      "comments": {
+        "_total": 2,
+        "values": [
+          {
+            "creationTimestamp": 1365008868000,
+            "creator": {
+              "firstName": "Ankit Chaudhary",
+              "headline": "Business Development Manager - Offshore Company",
+              "id": "veOKPEJ09A",
+              "lastName": "Wildnet Technologies",
+              "pictureUrl": "http://m3.licdn.com/mpr/mprx/0_3Puunxt0BF6Zr_ft_qgxnpC-vblJK5Yt_AZ1npCaEk5d73W-Svy84y9hUfA61CxYhKmtMUpNtZSh"
+            },
+            "id": "g-1169987-S-228685653-129017399",
+            "relationToViewer": {"availableActions": {
+              "_total": 1,
+              "values": [{"code": "flag-as-inappropriate"}]
+            }},
+            "text": "Hi Kevin,\r<br/>\n\r<br/>\nWe are leading company in developing iOS and Android apps. Kindly let me know if we can discuss any project opportunity.\r<br/>\n\r<br/>\nPlease contact me using following contact info:\r<br/>\n\r<br/>\na. Skype: ankit.wildnet.technologies\r<br/>\n\r<br/>\nb. Email: ankit.chaudhary@wildnettechnologies.com\r<br/>\n\r<br/>\nI am confident we could have long term business venture Kevin.\r<br/>\n\r<br/>\n\r<br/>\nPlease revert on my email and I will share more info about our company.\r<br/>\n\r<br/>\n\r<br/>\nhttp://site2demo.com/iphone-screen-flow/\r<br/>\n\r<br/>\nhttp://www.wildnetmobitech.com/\r<br/>\n\r<br/>\n\r<br/>\nBest regards,\r<br/>\n\r<br/>\nAnkit Chaudhary\r<br/>\n\r<br/>\nBusiness Development Manager\r<br/>\n\r<br/>\nWildnet Technologies"
+          },
+          {
+            "creationTimestamp": 1367340014745,
+            "creator": {
+              "firstName": "Deepak",
+              "headline": "Technology Architect at Accenture",
+              "id": "SHdKZUiQ-a",
+              "lastName": "Tundwal",
+              "pictureUrl": "http://m3.licdn.com/mpr/mprx/0_pl4feBXmB2PSj3awt90yeqvfBu6Sx3OwY12Kez61eW-g85dIKBHi6vtjMGQtp60bjtVAbt4yqCsP"
+            },
+            "id": "g-1169987-S-228685653-134644741",
+            "relationToViewer": {"availableActions": {
+              "_total": 1,
+              "values": [{"code": "delete"}]
+            }},
+            "text": "Informative blog...thanks kevin"
+          }
+        ]
+      },
+      "creationTimestamp": 1364982803000,
+      "creator": {
+        "firstName": "Kevin",
+        "lastName": "B.",
+        "pictureUrl": "http://m3.licdn.com/mpr/mprx/0_I3FrdIsfxwS549WHdLb_dewSx7oWZ9WHW_17dWWj8uOMbtYebFcpbdj1lFEnRAeXoGLa6aBK8S2z"
+      },
+      "likes": {
+        "_total": 1,
+        "values": [{"person": {
+          "firstName": "Ankit Chaudhary",
+          "headline": "Business Development Manager - Offshore Company",
+          "id": "veOKPEJ09A",
+          "lastName": "Wildnet Technologies",
+          "pictureUrl": "http://m3.licdn.com/mpr/mprx/0_3Puunxt0BF6Zr_ft_qgxnpC-vblJK5Yt_AZ1npCaEk5d73W-Svy84y9hUfA61CxYhKmtMUpNtZSh"
+        }}]
+      },
+      "summary": "The Mobility News Weekly is an online newsletter made up of the most interesting news and articles related to enterprise mobility that I run across each week. I am specifically targeting information that reflects market data...",
+      "title": "MobileEnterpriseStrategies.com"
+    }
+  ]
+}
+
+
+{
+  "_total": 1,
+  "values": [{
+    "attachment": {
+      "contentDomain": "",
+      "title": ""
+    },
+    "comments": {
+      "_count": 5,
+      "_start": 0,
+      "_total": 60,
+      "values": [
+        {
+          "creationTimestamp": 1357472553000,
+          "creator": {
+            "firstName": "Barry",
+            "headline": "Software Engineer",
+            "id": "sXyQcZkcpO",
+            "lastName": "C.",
+            "pictureUrl": "http://m3.licdn.com/mpr/mprx/0_SLdsnxs8W5vqR2etfkMdnjZDWTlkUWZtfbjLnpRpnk5NkD7-3iJn4y7-bfAU4mMYu6IkMUWiPeU6"
+          },
+          "id": "g-2848695-S-174641248-111931061",
+          "relationToViewer": {"availableActions": {
+            "_total": 1,
+            "values": [{"code": "flag-as-inappropriate"}]
+          }},
+          "text": "I upgraded from a lumia 800 to a Samsung Ativ S a couple of weeks ago. Absolutely no regrets. I was tempted by the lumia 920 but the fact 4g won't be coming to my part of the world anytime soon and the openness of the Samung ( changeable battery and SD card slot) made the choice of the Samsung a no-brainier."
+        },
+        {
+          "creationTimestamp": 1357561254000,
+          "creator": {
+            "firstName": "Stephen",
+            "headline": "Senior Developer Engineer at blinkbox",
+            "id": "Ysfvp5il5R",
+            "lastName": "A.",
+            "pictureUrl": "http://m3.licdn.com/mpr/mprx/0_3rnHNj8iC_XvyJSl_nBBNxAiC8rMy0pliNCBNxi-g6XW_UIAS9QXV0BpuSKQ04jgh1N9U4gG7G5a"
+          },
+          "id": "g-2848695-S-174641248-112060889",
+          "relationToViewer": {"availableActions": {
+            "_total": 1,
+            "values": [{"code": "flag-as-inappropriate"}]
+          }},
+          "text": "@William half hour when using turn-by-turn does not seem right to me, it might be a faulty unit. I'm based in the UK and I always pay outright for my phones. I will be getting the 920 once the price point hits £400. I'm guessing/hopping that it will go down in price around the March period."
+        },
+        {
+          "creationTimestamp": 1357599136000,
+          "creator": {
+            "firstName": "Paras",
+            "headline": "Windows Phone Development Champion",
+            "id": "mTAyLe-1O4",
+            "lastName": "W."
+          },
+          "id": "g-2848695-S-174641248-112187660",
+          "relationToViewer": {"availableActions": {
+            "_total": 1,
+            "values": [{"code": "flag-as-inappropriate"}]
+          }},
+          "text": "Barry Carr, you could have bought a Nokia Lumia 820 and you would have had changeable battery and SD Card slot."
+        },
+        {
+          "creationTimestamp": 1357768085000,
+          "creator": {
+            "firstName": "dave",
+            "headline": "programmer at imprintplus",
+            "id": "-CXEY7H7J1",
+            "lastName": "F."
+          },
+          "id": "g-2848695-S-174641248-112681658",
+          "relationToViewer": {"availableActions": {
+            "_total": 1,
+            "values": [{"code": "flag-as-inappropriate"}]
+          }},
+          "text": "Got a Nokia brick 920 last week! great phone! solid built, and nice camera."
+        },
+        {
+          "creationTimestamp": 1367338430383,
+          "creator": {
+            "firstName": "Deepak",
+            "headline": "Technology Architect at Accenture",
+            "id": "SHdKZUiQ-a",
+            "lastName": "Tundwal",
+            "pictureUrl": "http://m3.licdn.com/mpr/mprx/0_pl4feBXmB2PSj3awt90yeqvfBu6Sx3OwY12Kez61eW-g85dIKBHi6vtjMGQtp60bjtVAbt4yqCsP"
+          },
+          "id": "g-2848695-S-174641248-134638997",
+          "relationToViewer": {"availableActions": {
+            "_total": 1,
+            "values": [{"code": "delete"}]
+          }},
+          "text": "Behind every successful OS there is a hardware...apple has it's own hardware for iOS, android got Samsung's galaxy S, even blackberry's hardware looks good....Windows phone badly need some innovate hardware."
+        }
+      ]
+    },
+    "creationTimestamp": 1350052447000,
+    "creator": {
+      "firstName": "Philip",
+      "lastName": "G.",
+      "pictureUrl": "http://m3.licdn.com/mpr/mprx/0_OPQTE1L_l7G8yvjkyBTOEl3O1HcmyvukyAtOElFO2DiY_AUXtvnSXAPrjQBl0tSe0Kkx59MYw1kX"
+    },
+    "likes": {
+      "_total": 3,
+      "values": [
+        {"person": {
+          "firstName": "Craig",
+          "headline": "Microsoft MVP (Developer Security), Author, Blogger, Developer, Speaker, Podcaster & Certified ScrumMaster",
+          "id": "dC4ox74EI_",
+          "lastName": "M.",
+          "pictureUrl": "http://m3.licdn.com/mpr/mprx/0_tK6jMqr_pX80glofKvzCMB_myhkxjqUfr--CMBig_LK7GKu7On9AccBPtmX8Y1siPPXinrlvARnr"
+        }},
+        {"person": {
+          "firstName": "Barry",
+          "headline": "Software Engineer",
+          "id": "sXyQcZkcpO",
+          "lastName": "C.",
+          "pictureUrl": "http://m3.licdn.com/mpr/mprx/0_SLdsnxs8W5vqR2etfkMdnjZDWTlkUWZtfbjLnpRpnk5NkD7-3iJn4y7-bfAU4mMYu6IkMUWiPeU6"
+        }},
+        {"person": {
+          "firstName": "Alice",
+          "headline": "wholesale cell phone (Android smart phone, watch phone, car shape phone, car key style phone)",
+          "id": "76w4jK5gUX",
+          "lastName": "G.",
+          "pictureUrl": "http://m3.licdn.com/mpr/mprx/0_R2NuP6o6xlHCer_xvEXxP5wbPP77or-xve81P5dzuzUxzNL0Bok8jLgRgYfKWc1PVfntyGc6qp3w"
+        }}
+      ]
+    },
+    "summary": "",
+    "title": "Are you going to upgrade to Windows Phone 8? If so, what device are you going to get?"
+  }]
+}

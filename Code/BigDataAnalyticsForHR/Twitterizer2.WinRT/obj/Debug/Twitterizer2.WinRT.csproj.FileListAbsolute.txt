@@ -1,0 +1,1 @@
+C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\Twitterizer2.WinRT\obj\Debug\Twitterizer2.WinRT.csprojResolveAssemblyReference.cache

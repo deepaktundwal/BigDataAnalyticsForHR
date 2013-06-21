@@ -1,0 +1,8 @@
+C:\Dev\Code\BigDataAnalyticsForHR\BigDataAnalyticsForHR\BigDataAnalyticsForHR_Server\bin\Debug\BigDataAnalyticsForHR_Server.dll
+C:\Dev\Code\BigDataAnalyticsForHR\BigDataAnalyticsForHR\BigDataAnalyticsForHR_Server\bin\Debug\BigDataAnalyticsForHR_Server.pdb
+C:\Dev\Code\BigDataAnalyticsForHR\BigDataAnalyticsForHR\BigDataAnalyticsForHR_Server\bin\Debug\Newtonsoft.Json.dll
+C:\Dev\Code\BigDataAnalyticsForHR\BigDataAnalyticsForHR\BigDataAnalyticsForHR_Server\bin\Debug\Newtonsoft.Json.pdb
+C:\Dev\Code\BigDataAnalyticsForHR\BigDataAnalyticsForHR\BigDataAnalyticsForHR_Server\bin\Debug\Newtonsoft.Json.xml
+C:\Dev\Code\BigDataAnalyticsForHR\BigDataAnalyticsForHR\BigDataAnalyticsForHR_Server\obj\Debug\BigDataAnalyticsForHR_Server.csprojResolveAssemblyReference.cache
+C:\Dev\Code\BigDataAnalyticsForHR\BigDataAnalyticsForHR\BigDataAnalyticsForHR_Server\obj\Debug\BigDataAnalyticsForHR_Server.dll
+C:\Dev\Code\BigDataAnalyticsForHR\BigDataAnalyticsForHR\BigDataAnalyticsForHR_Server\obj\Debug\BigDataAnalyticsForHR_Server.pdb

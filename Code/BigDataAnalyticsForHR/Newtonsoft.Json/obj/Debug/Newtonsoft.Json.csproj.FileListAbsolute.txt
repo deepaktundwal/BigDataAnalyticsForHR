@@ -1,0 +1,8 @@
+C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\Newtonsoft.Json\bin\Debug\Net40\Newtonsoft.Json.xml
+C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\Newtonsoft.Json\bin\Debug\Net40\Newtonsoft.Json.dll
+C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\Newtonsoft.Json\bin\Debug\Net40\Newtonsoft.Json.pdb
+C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\Newtonsoft.Json\bin\Debug\Net40\Newtonsoft.Json.dll.CodeAnalysisLog.xml
+C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\Newtonsoft.Json\bin\Debug\Net40\Newtonsoft.Json.dll.lastcodeanalysissucceeded
+C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\Newtonsoft.Json\obj\Debug\Newtonsoft.Json.csprojResolveAssemblyReference.cache
+C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\Newtonsoft.Json\obj\Debug\Newtonsoft.Json.dll
+C:\Dev\Code\Avanada Innovation Contest\App\BigDataAnalyticsForHR\Newtonsoft.Json\obj\Debug\Newtonsoft.Json.pdb
